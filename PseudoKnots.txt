@@ -1,0 +1,1232 @@
+>Vf(Viral ribosomal frameshifting signals)
+
+>PKB350, ALFV (Alfuy virus) 
+CCCUUUUCAGCUGGGCCUCUUGGUAGUUUUCCUGGCCACCCAGGAGGUCUUGAGGAAGAGGUGGACGGCCAGAAUGA
+::::::::::::(((((((((((::::::::[[[[[[::)))))))))))::::::::::::::::]]]]]]:::::
+>PKB240, BChV (beet chlorosis virus) 
+GGGAAAUGGACUGAGCGGCGCCGACCGCCAAACAACCGGCA
+::::::::::::::((((:[[[[:))))::::::::]]]]:
+>PKB128, BEV (Berne virus) 
+UUUAAACUGUUGAGAGGUGCCUGGAGCGCCUGCAGGCAUCUCUGUUUAUAAUGCAGGCA
+::::::::::::(((((((((((::::[[[[[)))))))))))::::::::::]]]]]:
+>PKB1, BLV (Bovine leukemia virus) 
+AAAAAACUAAUAGAGGGGGGACUUAGCGCCCCCCAAACCGUAACCCC
+::::::::::::::[[[[[[:::::(((]]]]]]::::)))::::::
+>PKB2, BWYV (Beet western yellows virus) 
+GGGAAACGGAGUGCGCGGCACCGUCCGCGGAACAAACGGAGAAGGCAGCU
+:::::::::::::[[[[[::((((]]]]]::::::)))):::::::::::
+>PKB46, BYDV-NY-RPV (barley yellow dwarf virus) 
+GGGAAACGGGAAGGCGGCGGCGUCCGCCGUAACAAACGC
+::::::::::::(((((::[[[[))))):::::::]]]]
+>PKB44, CABYV (cucurbit aphid-borne yellows virus) 
+GGGAAACGGGCAGGCGGCGGCGACCGCCGAAACAACCGC
+::::::::::::(((((::[[[:)))))::::::::]]]
+>PKB127, EAV (equine arteritis virus) 
+GUUAAACUGAGAGCGCCCCACAUCUUUCCCGGCGAUGUGGGGCGUGCCCGGGACUU
+:::::::::::::(((((((((((::[[[[[[:))))))))))):::]]]]]]:::
+>PKB3, EIAV (Equine infectious anemia virus) 
+AAAAAACGGGAAGCAAGGGGCUCAAGGGAGGCCCCAGAAACAAACUUUCCCGAU
+::::::::::::::::[[[[[[:::((((]]]]]]::::::::::::)))):::
+>PKB4, FIV (Feline immunodeficiency virus) 
+GGGAAACUGGAAGGCGGGGCGAGCUGCAGCCCCAGUGAAUCAAAUGCAGC
+:::::::::::::::[[[[[::((((((]]]]]:::::::::::))))))
+>PKB171, HCV_229E (human coronavirus 229E) 
+UUUAAACGAGUCCGGGGCUCUAGUGCCGCUCGACUAGAGCCCUGUAACAGUUAUGGACCACGAGCAGUCCAUGUA
+::::::::::::((((((((((((:::[[[[[)))))))))))):::::::(((((((::]]]]]:)))))))::
+>PKB258, Hs_Ma3 (Homo sapiens) 
+GGGAAACGGGAACUGGGCUUGGGACAAGAGCCAUCCCAAGUCCAAGGCCAAGUAGGCUCG
+:::::::::::::(((((((((((:::[[[[[:)))))))))))::::::::::]]]]]:
+>PKB106, IBV (infectious bronchitis virus) 
+UUUAAACGGGUACGGGGUAGCAGUGAGGCUCGGCUGAUACCCCUUGAAGCGAGCCUU
+:::::::::::::(((((((((((:[[[[[[[)))))))))))::::::]]]]]]]:
+>PKB348, JEV (Japanese encephalitis virus) 
+CCCUUUUCAGCUGGGCCUUCUGGUGAUGUUUCUGGCCACCCAGGAGGUCCUUCGCAAGAGGUGGACGGCCAGAUUGA
+::::::::::::(((((((((((:::::::[[[[[[[::))))))))))):((::::)):::::::]]]]]]]::::
+>PKB346, KUNV (West Nile virus, Kunijn subtype) 
+UCCUUUUCAGCUGGGCCUUCUGGUCGUGUUCUUGGCCACCCAGGAGGUCCUUCGCAAGAGGUGGACAGCCAAGAU
+::::::::::::(((((((((((::::::[[[[[[[:::))))))))))):((::::))::::::::]]]]]]]:
+>PKB217, LDV-C (lactate dehydrogenase-elevating virus, strain C) 
+UUUAAACUGCUAGCCACCUCUGGUCUCGACCGCUGUACUAGAGGUGGGCUGACGGUGUYUGGCGAUGCGGUCA
+:::::::::::::(((((((((((:::[[[[[[:::))))))))))):::::::::::::::::::]]]]]]:
+>PKB352, MIDV (Middelburg virus) 
+UUCUUUUUUAGUGGCAGUAAGCCUGGGAAUGGGGGCGACCCAGGCGUAUGAACAUAGUGUAACGCUCCCC
+::::::::::::::::(((:(((((((:::[[[[[[[:))))))):))):::::::::::::]]]]]]]:
+>PKB80, MMTV_gag/pro (mouse mammary tumor virus)
+AAAAAACUUGUAAAGGGGCAGUCCCCUAGCCCCGCUCAAAAGGGGGAUG
+::::::::::::::(((((:[[[[[[[:)))))::::::::]]]]]]]:
+>PKB349, MVEV (Murray Valley encephalitis virus)
+UCCUUUUCAGUUAGGCCUUCUGGUGAUGUUUCUGGCCACCCAGGAGGUCUUGAGGAAGAGGUGGACGGCCAGACUUACUC
+::::::::::::(((((((((((:::::::[[[[[[[::)))))))))))::::::::::::::::]]]]]]]:::::::
+>PKB257, Mm_Edr (Mus musculus (mouse)) 
+GGGAAACUCCCCGGCCCCGCUGUAGGGGGACCUUCAGCGACAGGGCCAGAACGAAUAAGGUCCCCA
+::::::::::::((((((((((:::[[[[[[[[[))))):::))))):::::::::]]]]]]]]]:
+>PKB45, PEMV (pea enation mosaic virus)
+GGGAAACGGAUUAUUCCGGUCGACUCCGGAGAAACAAAGUC
+:::::::::::::((((((::[[[[))))))::::::]]]]
+>PKB43, PLRV-S (potato leafroll virus)
+UUUAAAUGGGCAAGCGGCACCGUCCGCCAAAACAAACGG
+:::::::::::::((((::[[[[))))::::::::]]]]
+>PKB42, PLRV-W (potato leafroll virus) 
+UUUAAAUGGGCGAGCGGCACCGCCCGCCAAAACAAACGG
+:::::::::::::((((::[[[:)))):::::::::]]]
+>PKB218 , PRRSV-16244B (Porcine reproductive and respiratory syndrome virus, North American isolate (16244B)) 
+UUUAAACUGCUAGCCGCCAGCGGCUUGACCCGCUGUGGUCGCGGCGGCUUGGUUGUUACUGAGACAGCGGUA
+::::::::::::((((((:((((((::::[[[[[[[)))))))))))):::::::::::::::]]]]]]]::
+>PKB233, PRRSV-LV (Porcine reproductive and respiratory syndrome virus, European Lelystad strain (LV)) 
+UUUAAACUGUUAGCCGCCAGCGGCUUGACCCGCUGUGGCCGCGGCGGCCUAGUUGUGACUGAAACGGCGGU
+::::::::::::((((((:((((((::::[[[[[[[)))))))))))):::::::::::::::]]]]]]]:
+>PKB174 , RSV (Rous sarcoma virus) 
+AAAUUUAUAGGGAGGGCCACUGUUCUCACUGUUGCGCUACAUCUGGCUAUUCCGCUCAAAUGGAAGCCAGACCACACGCCUGUGUGGAUUGACCAGUGGCCCCUCCCUGAAGGUAAACUUGUAGCGCU
+::::::::((((((((((((((:::::::::::[[[[[[[[((((((::(((((::::::)))))))))))((((((::::))))))::::::))))))))):))))):::::::::::]]]]]]]]:
+>PKB254, SARS-CoV (SARS coronavirus) 
+UUUAAACGGGUUUGCGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUCUACAGGGCUU
+::::::::::::(((((((((((:::[[[[[[[)))))))))))((((((((:::::::::))):))))):::]]:]]]]]:
+>PKB353, SESV (Seal louse virus) 
+UUUGUUUUUUAGCUGUGCUGGGUGCGAGUGUGGCAGCGGCUCGUGCCUACGAACACACCGCUGUCAUGCC
+::::::::::::::::::(((((((((((:[[[[[[[[))))))))))):::::::::]]]]]]]]::::
+>PKB107, SRV1_gag/pro (simian retrovirus-1) 
+GGGAAACGGACUGAGGGGCCAGCCCCAGGCCCCGAAACAAGCUUAUGGGGCG
+::::::::::::::((((((:[[[[[[))))))::::::::::::]]]]]]:
+>PKB281, ScYLV (sugarcane yellow leaf virus) 
+GGGAAACGAGCCAAGUGGCGCCGACCACUUAAAAACACCGGAA
+:::::::::::::(((((::[[[:))))):::::::::]]]::
+>PKB351, USUV (Usutu virus) 
+AUCCUUUUCAGUUGGGCCUUCUGGUGAUGUUUCUGGCCACCCAGGAGGUCCUGAGGAAGAGGUGGACGGCCAGAUUGACU
+:::::::::::::(((((((((((:::::::[[[[[[[::)))))))))))::::::::::::::::]]]]]]]::::::
+>PKB280, VMV (Visna-Maedi virus)
+GGGAAACAACAGGAGGGGGCCACGUGUGGUGCCGUCCGCGCCCCCUAUGUUGUAACAGAAGCACCACC
+:::::::::::::(((((((:::::[[[[[[[:::::::)))))))::::::::::::::]]]]]]]:
+>PKB253, WBV (White Bream Virus) 
+UUUAAACUGGUGGGGCAGUGUCUAGGAUUGACGUUAGACACUGCUUUUUGCCCGUUUCAAACAGGUGAAUACAAACCGUCAU
+:::::::::::((((((((((((((:::[[[[[)))))))))))))):::::::::::::::::::::::::::::]]]]]:
+>PKB347, WNV (West Nile virus) 
+CCCUUUUCAGUUGGGCCUUCUGGUCGUGUUCUUGGCCACCCAGGAGGUCCUUCGCAAGAGGUGGACAGCCAAGAU
+::::::::::::(((((((((((::::::[[[[[[[:::))))))))))):((::::))::::::::]]]]]]]:
+//
+
+>Vr(Viral ribosomal readthrough signals)
+
+>PKB78, AKV-MuLV (AKV murine leukemia virus) 
+UAGGGGGGUCAGGGUCAGGAGCCCCCCCCUGAACCCAGGAUAACCCUCACUGUCGGGGGGCA
+:::::::::::((((((((:[[[[[[[)))):))))::::::::::::::::::]]]]]]]:
+>PKB98, BaEV (baboon endogenous virus)
+UAGGGGUGUCAGGGCUCUGGAGCCCCCCCCGAGCCCCGGCUAACUCUAUCUGUAGGGGGGCA
+:::::::::::((((((:((:[[[[[[[))))))))::::::::::::::::::]]]]]]]:
+>PKB99, Cas-Br-E-MuLV (Cas-Br-E murine leukemia virus) 
+UAGGGGGGUCGGGGUCAGGAGCCCCCCCCUGAACCCAGGAUAACCCUCAAAGUCGGGGGGCAA
+:::::::::::((((((((:[[[[[[[)))):))))::::::::::::::::::]]]]]]]::
+>PKB88, FeLV (Feline leukemia virus) 
+UAGGAGAGUCAGGGCCAGGACCCCCCCCCCUGAGCCCAGGAUAACCUUAAGAAUAGGGGGGC
+:::::::::::((((((((:::[[[[[[)))):))))::::::::::::::::::]]]]]]:
+>PKB79, GaLV (gibbon ape leukemia virus) 
+UAGGGGAGUCAGGGUUCGGACCCCCUCCCCGAACCUAGGGUAACACUGACUGUGGAGGGGA
+:::::::::::((((((((::[[[[[[[)))))))):::::::::::::::::]]]]]]]:
+>PKB47, Mo-MuLV (Moloney murine leukemia virus) 
+UAGGGAGGUCAGGGUCAGGAGCCCCCCCCUGAACCCAGGAUAACCCUCAAAGUCGGGGGGC
+:::::::::::((((((((:[[[[[[[)))):))))::::::::::::::::::]]]]]]]
+>PKB48, SNV (spleen necrosis virus) 
+UAGGGCCGUCAGGGUUCUCCCGCCCUCCGUGAACCCAGGCUAAAAGUUAAGGUAGGGGGGC
+:::::::::::((((((:(::[[[[[[[):))))))::::::::::::::::::]]]]]]]
+//
+
+>Vt(Viral tRNA-like structures)
+
+>PKB191, AMV3 (alfalfa mosaic virus) 
+AGGUAUGAAGUCCUAUUCGCUCCUGAUAGGAUCGACUUCAUAUUGCUUAUAUAUGUGCUAACGCACAUAUAUAAAUGCUCAUGCAAAACUGCAUGAAUGCCCCUAAGGGAUGC
+:((((((((((((((((:::[[[[))))))::::))))))))))::((((((((((((::::))))))))))))::::(((((((::::))))))):::::::::]]]]::::
+>PKB393, APLPV3 (American plum line pattern virus) 
+AGUUAACUACGAUGUCGGCCCUAGGACAUCUAUCGAGUUAACGACGAUCGCUUUGCGAUUAUGCUUCAUUUUUUCUUUCGAAAAAAUGAAAUGACCCUUAGGGGCC
+:(((((((:(((((((::[[[[[:))))))::::)))))))):::((((((:::))))))::::(((((((((((::::)))))))))))::::::::]]]]]:::
+>PKB14, APLV (andean potato latent virus) 
+CGGGUGCGACUCCCCCCCCUCCUGUGGGCUACAGGAACCA
+::::::::::::::(((::[[[[[[)))::]]]]]]::::
+>PKB390, AV-2_3 (Asparagus virus 2) 
+AGUCCAUAUGCCCAUCUUUGCUGCUCCGGAUGGAUGUUUAUACCCGCUAUGGAUGCCUAUUACUGAAAUGUAAUAGAUGCCUAAUACUCUCUCUCAGGGAGAGAGUUUAGAUGCCUCCAAAGGAGAUGCU
+:(((((((:::((((((::::::[[[[))))))::::::::::::::)))))))::(((((((::::::)))))))::::((((:((((((((:::::)))))))))))):::::::::::]]]]:::::
+>PKB397, ApMV3 (Apple mosaic virus) 
+CAGUUUUCCGAGCGUCGCCUCCUUAGGCGUGUCCUAGGAAAACAACAACUCGAUGUAGAGUUGAUUCCAAUUUCUGUGAAAGAAAUUGAUGCCCCGAUUAGGAGGC
+::(((((((:((((((:[[[[[[::))))::::)):)))))))::((((((::::::))))))::::((((((((:::::)))))))):::::::::::]]]]]]:
+>PKB135, BBMV3 (broad bean mottle virus) 
+AAGAUAUCUGUACCGUCUUCUCCCCGACGGUUUCAAUCCAUAGCUUCACGUUGUGUAGCGUAGGUGGAAGGUAUCGUGUGGUGUAUAAACACCACAUAGUCUCUUAGGGGAGACCA
+::(((((((::((((((::[[[[[[)))))):::::(((((:((((((:::::))))))::::))))))))))))(((((((((::::))))))))):::::::::]]]]]]::::
+>PKB384, BCRV1 (Blackberry chlorotic ringspot virus) 
+UAUAUACUAGGUUGGCAUUUUGAGCGCAUCUUACUCAAAUCCUAGUAUUUCCAUUAAUAUCUAAUGAUAUUAAUGAUGCCUCUUAAUAUAAGAGAUGC
+:::((((((((:::::::((((((::[[[[[[:)))))):)))))))):::((((((((((::::))))))))))::::::::::::::::]]]]]]:
+>PKB134, BMV3 (brome mosaic virus) 
+UCUAGGUGCCUUUGAGAGUUACUCUUUGCUCUCUUCGGAAGAACCCUUAGGGGUUCGUGCAUGGGCUUGCAUAGCAAGUCUUAGAAUGCGGGUACCGUACAGUGUUGAAAAACACUGUAAAUCUCUAAAAGAGACCA
+::::(((((((::((((((::[[[[[[)))))):::::::((((((::::))))))::(((((((((((:::::)))))))::::))))))))))):((((((((::::::))))))))::::::::]]]]]]::::
+>PKB36, BSBV1 (beet soil-borne virus) 
+GGGGUGCAAAUCCCCCCCUUUACUUGAGGGAAAUCAAGCCC
+:::::::::::::::(((::::[[[[[))):::]]]]]:::
+>PKB37 ,BSBV2 (beet soil-borne virus)
+GGGGUGCAAAUCCCCCCCUUAACUUGAGGGAAAUCAAGCCC
+:::::::::::::::(((::::[[[[[))):::]]]]]:::
+>PKB38, BSBV3 (beet soil-borne virus) 
+GGGGUGCAACUCCCCCCCUUAACUAGAGGGAAAUCUAGCCC
+:::::::::::::::(((::::[[[[[))):::]]]]]:::
+>PKB138, BSMVbeta (barley stripe mosaic virus) 
+AUUGGUAUGUAAGCUACAACUUCCGGUAGCUGCGUCACACUUUAAGAGUGUGCAUACUGAGCCGAAGCUCAGCUUCGGUCCCCCAAGGGAAGACCA
+:((((((((::((((((::[[[[[:))))))::::((((((:::::)))))))))))))):((((((:::::)))))):::::::::]]]]]::::
+>PKB39, BVQ1 (beet virus Q) 
+GGGGUGCAAAUCCCCCCCUAACUUGAGGGAAAUCAAGCCCC
+:::::::::::::::(((:::[[[[[))):::]]]]]::::
+>PKB40, BVQ2 (beet virus Q) 
+GGGGUGCAAAUCCCCCCCUAACUUGAGGGAAAUCAAGCCC
+:::::::::::::::(((:::[[[[[))):::]]]]]:::
+>PKB41, BVQ3 (beet virus Q) 
+GGGGUGCAAAUCCCCCCCUAACUUGAGGGAAAUCAAGCCCC
+:::::::::::::::(((:::[[[[[))):::]]]]]::::
+>PKB136, CCMV3 (cowpea chlorotic mottle virus) 
+AGCUGCCCUUGGGUUUUACUCCUUGAACCCUUCGGAAGAACUCUUUGGAGUUCGUACCAGUACCUCACAUAGUGAGGUAAUAAGACUGGUGGGCAGCGCCUAGUCGAAAGACUAGGUGAUCUCUAAGGAGACCA
+:(((((((::((((((::[[[[[[)))))):::::::((((((::::))))))::((((((((((((:::::)))))))::::::))))))))))))((((((((::::)))))))):::::::]]]]]]::::
+>PKB20, CGMMV (cucumber green mottle mosaic virus) 
+GGGGUUCGAAUCCCCCCUUUUCCCCGGGUAGGGGCCCA
+:::::::::::::::(((:::[[[[)))::]]]]::::
+>PKB140, CGMMV_PKbulge (cucumber green mottle mosaic virus) 
+UUUGCUCAUUGGUUUGCGGAAACCUCUCACGUGUGACGUUGAAGUUUCUAUGGGCAGUAAUUCUGCAAG
+:((((((((::::[[[[((((((:((::(((:::::))):)):)))))))))))))):::::::]]]]:
+>PKB137, CMV3 (cucumber mosaic virus) 
+AGGUACCCUUGAAAUCACCUCCUAGAUUUCUUCGGAAGGGCUUCGUGAGAAGCUCGUGCACGGUAAUACACUGAUAUUACCAAGAGUGCGGGUAUCGCCUGUGGUUUUCCACAGGUUCUCCAUAAGGAGACCA
+:(((((((::((((((::[[[[[:)))))):::::::(((((((::::)))))))::(((((((((((::::::)))))))::::)))))))))))((((((((::::))))))))::::::::]]]]]::::
+>PKB389, CVV3 (Citrus variegation virus) 
+AAGUCUAUAUGCCCACCUUUGCUACUCCGGGUGGAUGUUCUAAGUGUAUAUAGAUGCCUAUAUUUGAAAUAAUAUAGAUGCCCAAACUCUCUCUCAUGGAGAGAGAAUGGAUGCCUCCGAAGGAGAUGC
+::((((((((((((((((::::::[[[[)))))):::::::::::))))))))))::(((((((::::::)))))))::::(((::(((((((:::::)))))))::))):::::::::::]]]]::::
+>PKB11, CYVV (clitoria yellow vein virus) 
+UGGGUGCAACCCCCCCGUCCAUCUCGAACGUCAUCGAGACCA
+:::::::::::::::(((:::[[[[[[))):::]]]]]]:::
+>PKB7, CaYMV (cacao yellow mosaic virus) 
+GGUGGUGCAACUCCCCCGUCCUCCCGAACGUCAUCGGGACCA
+::::::::::::::::(((::[[[[[[))):::]]]]]]:::
+>PKB13, CaYVV (calopogonium yellow vein virus) 
+GGGGUGCGACUCCCCCGUCUAUCCUGAACGUCAUCAGGACCA
+:::::::::::::::(((:::[[[[[[))):::]]]]]]:::
+>PKB17, CcTMV (tobacco mosaic virus) 
+GGGGAGCAUUACCCCCCCAAAACCCUGGGGAUACAGGGCCCA
+:::::::::::::::(((::::[[[[[))):::]]]]]::::
+>PKB388, CiLRV3 (Citrus leaf rugose virus) 
+AAGUUCAUAUGCCCACCUUUGCUGCUCCGGGUGGAUGCUUCGUGCAAAUGCUAUGAAUGCCUACGUAUAUGUGCGUAGAUGCCUAUAUUUUCUCUCCUGAGAAAAUAUAGAUGCCUCCAAAGGAGAUGC
+::(((((((:((((((((::::::[[[[)))))):::::::::::::::)))))))))::(((((((::::)))))))::::((((((((((((::::)))))))))))):::::::::::]]]]::::
+>PKB9, DYMV (desmodium yellow mottle virus) 
+GGGGUGCAACUCCCCCGUCUAUCCUGGACGUCACCAGGACCA
+:::::::::::::::(((:::[[[[[[))):::]]]]]]:::
+>PKB15, EMV (eggplant mosaic virus) 
+UGGGUGCGACUCCCCCCCCUCCCGUGGGUCAACGGGAACCA
+::::::::::::::(((::[[[[[[))):::]]]]]]::::
+>PKB391, EMoV3 (Elm mottle virus) 
+AGUCCAUAUGCCCAUCUUUGCUGCUCCGGAUGGAUGUUAAUACCCCCUAUGGAUGCCUAUUAUUGAAAAAUAAUAGAUGCCUAAUUCUCUCUCUCAGGGAGAGAGAUUAGAUGCCUCCAAGGAGAUGC
+:(((((((:::((((((::::::[[[[))))))::::::::::::::)))))))::((((((((::::))))))))::::((((:((((((((:::::))))))))))))::::::::::]]]]::::
+>PKB395, FCiLV3 (Fragaria chiloensis latent virus) 
+AGUAAGUUUCUCCUAUCGCCAUCUGGAUGGGAUUUAAGAGACUUAUGCCAAACUCUUUGAGUUUGAUGCCAAUUCAGUUUUCGUCUGAAUUGAUGCCCGAAAGGAUGGC
+:((((((((((((((((:[[[[[[:)))))):::::))))))))))::(((((((:::)))))))::::((((((((:::::::))))))))::::::::::]]]]]]:
+>PKB394, HJLV3 (Humulus japonicus latent virus)
+AGACAUAUAUGCCUAUUGCCCCCUGUAGGAGUGCACUAGAUGUUGCGUGAAGAUAUUUCUUCAUUUGCCCUACCAAAAGGUAGGAUGCCCCUUUAAGGGAGGC
+:(((((:(((((((((::::[[[[)))))::::)):)):)))))::(((((((::::)))))))::::((((((::::)))))):::::::::::]]]]::::
+>PKB35, IPCV1 (Indian peanut clump virus) 
+GGUGCAAAUCCCCCGCCGAUACGGAGCGAUAUCCGUCCCA
+:::::::::::::(((::::[[[[[))):::]]]]]::::
+>PKB6, KYMV-BP (kennedya yellow mosaic virus )
+GGGGUGCAACUCCCCCGUCUAUCCUGGACGUCACCAGGACCA
+:::::::::::::::(((:::[[[[[[))):::]]]]]]:::
+>PKB168, LRSVbeta (lychnis ringspot virus) 
+AUUGGUGAUUAUUUCCGCUUACUCCUGUGCGGAUGCAACAAUGUUUUGACAUUGAUCACUGAGUUUCAGACUGACUAACAGUCUGGGAUCCCCCAAGGGAGACCA
+:((((((((::::(((((:::[[[[[::))))):::::((((((::::)))))))))))))):((((((((((:::::))))))))))::::::::]]]]]::::
+>PKB392, LiRMV3 (Lilac ring mottle virus) 
+GUUUGUAUUCCGACUGUUUGUUUCUCCCAGUCGAUGCCUGUUGGUGUUUACAGACGAGUAUGGUAUUGACCAUAUGUUCCUAUUCUCUCUCUCAGGAGAGGAGAAUAGAUGCCUCCAAAGGAGUCGC
+(((((((:::((((((:::::::[[[[))))))(((((::::))))):)))))))::(((((((::::)))))))::::((((((((((((::::)))):)))))))):::::::::::]]]]::::
+>PKB247, NeRNV_PKa (Nemesia ring necrosis virus) 
+CCCCUGUCCCGGGUAGGGAACC
+:(((::[[[[)))::]]]]:::
+>PKB248, NeRNV_PKb (Nemesia ring necrosis virus) 
+UGUUCCUUGGAUUGCUACGUUCACCAGAUUUGUGUAAUCUGGCCGUUAGGAACUUAAAAUUGCGCG
+:((((((:::::[[[((((::::(((((((:::::))))))):))))))))))::::::::]]]::
+>PKB16, OMV (okra mosaic virus) 
+GGGGUGCAACUCCCCCGCCCAUCUCGAGCGUCAUCGAGACCA
+:::::::::::::::(((:::[[[[[[))):::]]]]]]:::
+>PKB26, ORMV (oilseed rape mosaic virus) 
+GAGGUUCGAAUCCUCCCUAACCCCGGGUAGGGGCCCA
+:::::::::::::::(((::[[[[)))::]]]]::::
+>PKB28, ORSV-S1 (odontoglossum ringspot virus) 
+GGGAUUCGAAUUCCCCCUUACCUCGGGUAGAGGCCCA
+:::::::::::::::(((::[[[[)))::]]]]::::
+>PKB144, ORSV-S1_PKbulge1 (odontoglossum ringspot virus) 
+UUGUGUAUAUGGAUCAUGCGGAUAAAGUUAUACUGGUGCAGUAUAACCCGUUAUACACAUAAAAUUAUGAG
+:((((((((::::[[[[((((:::::((((((((:::::)))))))))))))))))))):::::::]]]]:
+>PKB145, ORSV-S1_PKbulge2 (odontoglossum ringspot virus) 
+UUGUGUCAGACGCGUGUAAGGAGUGGUCAACCUUACGACACAUUUAAAUAAUGCGUCC
+:(((((::[[[[[[(((((((:::::::::)))))))))))):::::::::]]]]]]:
+>PKB146, ORSV-S1_PKbulge3 (odontoglossum ringspot virus) 
+UUUCACUGCGGAUAUGUAGGUUUCCUCGGUGAAUAUAAAACUUAUAUCCC
+:(((((:::[[[[[((:(((:::)))))))))):::::::::::]]]]]:
+>PKB10, OYMV (ononis yellow mosaic virus) 
+UGGGUUCAACUCCCCCCCUUUUCCGAGGGUAUCGGAAACC
+::::::::::::::(((:::[[[[[[)))::]]]]]]:::
+>PKB33, PCV1 (peanut clump virus)
+GGUGCAAAUCCCCCGCUGAAACGGAGCGAUAUCCGUCCCA
+:::::::::::::(((::::[[[[[))):::]]]]]::::
+>PKB34, PCV2 (peanut clump virus) 
+GGUGCAAAUCCCCCGCUGAAACGGAGCGAUAUCCGUCCCA
+:::::::::::::(((::::[[[[[))):::]]]]]::::
+>PKB398, PDV3 (Prune dwarf virus)
+GAUGAAAAUGCCCAUUGUAUCCUGAAUGGAUGACACUUUUCAUUGCCUACAAAUUUUGUACAUGCCCUCACCGUAAGGUGAGGAUGCCCCUUUAAGGGAUGC
+((((((((((:(((((:[[[[[[:)))))::::)):)))))))):::(((((:::))))):::::(((((((::::)))))))::::::::::::]]]]]]:
+>PKB19, PMMV-I (pepper mild mottle virus) 
+GGGGUUCGAAUCCCCCCCGAACCGCGGGUAGCGGCCCA
+:::::::::::::::(((:::[[[[)))::]]]]::::
+>PKB27, PMMV-S (pepper mild mottle virus)
+GGGGUUCGAAUCCCCCCCGAACCGCGGGUAGCGGCCCA
+:::::::::::::::(((:::[[[[)))::]]]]::::
+>PKB143, PMMV-S_PKbulge (pepper mild mottle virus)
+UUGUCGUUGGGAUGGAACGCAAUUAAAUACAUGUGUGACGUGUAUUUGCGAACGACGUAAUUAUUUUUCAG
+:(((((((::::[[[[[(((::::(((((((((:::::)))))))))))))))))))::::::::]]]]]:
+>PKB32, PMTV2 (potato mop-top virus) 
+GGGUGCAACUCCCCCCCCCUUGGAGGGUAUCCAAGACC
+:::::::::::::(((::[[[[[[)))::]]]]]]:::
+>PKB385, PMoV3 (Parietaria mottle virus) 
+GGAUGUUCGGGUGGCUGCUUAAGCGCUUCUAUACUUAAGUACCGAAUGUUAUACCGUUAUUAUCUAGUGAUAAUAACGAUGCCUAUUUCUAUGAAAUAGAAGC
+:(((((((((:::::((((((((::[[[[[[[:)))))))))))))))))::::((((((((((::::)))))))))):::::::::::::::::]]]]]]]:
+>PKB396, PNRSV3 (Prunus necrotic ringspot virus) 
+UAGAUUUCUGAAAGUCGCUUCCCGGCUUUCAUGCUUGGAAAUCUUACCUGCGUUAGCAGAUGCCCACAACGUGAAGUUGUGGAUGCCCCGUUAGGGAAGC
+:(((((((((((((((:[[[[[[))))))))::::::))))))):::((((::::))))::::(((((((:::::))))))):::::::::::]]]]]]:
+>PKB164, PSLVbeta (poa semilatent virus) 
+AUUGGUAUGUAAGCUACUUCUUCCAGUAGCUGCGUCAUAACAUCAAGGUUAUGCAUACUGAGCCGAAGCUCAGCUUCGGUCCUCCAAGGAAGACCA
+:((((((((::((((((::[[[[[:))))))::::((((((::::::)))))))))))))):((((((:::::))))))::::::::]]]]]::::
+>PKB24, PaMMV (paprika mild mottle virus) 
+GGGGUUCGAAUCCCCCCUUUACCCCGGGUAUGGGGCCCA
+:::::::::::::::(((:::[[[[))):::]]]]::::
+>PKB8, PhyMV (physalis mottle virus) 
+UGGGUGCAACUCCCCCCCCUUCCGUGGGUAACGGAAACCA
+::::::::::::::(((::[[[[[[)))::]]]]]]::::
+>PKB182, SBRMV1-PKa (soil-borne rye mosaic virus) 
+GGGGUUCAAAUCCCCCCCCGAACCGGAGGGUUAUCCGGCCCA
+:::::::::::::::(((::::[[[[[))):::]]]]]::::
+>PKB30, SBWMV1 (soil-borne wheat mosaic virus) 
+GGGGUUCAAAUCCCCCCCGAACCGGAGGGUUAUCCGGCCCA
+:::::::::::::::(((:::[[[[[))):::]]]]]::::
+>PKB31, SBWMV2 (soil-borne wheat mosaic virus)
+GGGGUUCAAUUCCCCCCCCAUCCGGAGGGUUAUCCGGCCC
+:::::::::::::::(((:::[[[[[))):::]]]]]:::
+>PKB382, SNSV1 (Strawberry necrotic shock virus) 
+UUCCAACAAGAAGGCGUCUGAGCGCAUCUUUCUCAGAUCUUGUUGAUGUUUCCAAUAAUAUCAAUUGAUAUUAUUGAUGCCUCUAAUUUAUAGAGAUGC
+:::((((((((:::::((((((::[[[[[[[)))))))))))))):::::::((((((((((::::)))))))))):::::::::::::::]]]]]]]:
+>PKB22, STMV (satellite tobacco mosaic virus) 
+GGGGUUCGAAUCCCUCCCUAACCGCGGGUAAGCGGCCCA
+:::::::::::::::(((:::[[[[))):::]]]]::::
+>PKB142, STMV_PKbulge (satellite tobacco mosaic virus) 
+UUUUGUUUUGGUCUUCCCGAACGCAUACGUUAGUGUGACUACCGUUGUUCGAAACAAGUAAAACAGGAAGG
+:(((((((::::[[[[[((((((:::(((:(((:::::))):)))))))))))))))):::::::]]]]]:
+>PKB387, SpLV3 (Spinach latent virus) 
+AAGUCCAUAUGCCCACCUUCGCUGCUCCGGGUGGAUGCUUAUACAUGCUAUGGAUGCCUACAUUUGAAAUAAUGUAGAUGCCUAAUACUCUCUCUCAGGGAGAGAGUUUAGAUGCCUCCAAAGGAGAUGC
+::(((((((:((((((((::::::[[[[))))))::::::::::::)))))))))::(((((((::::::)))))))::::((((:((((((((:::::)))))))))))):::::::::::]]]]::::
+>PKB386, TAMV1 (Tulare apple mosaic virus) 
+AGUUCAUAUGCCCACCUUUGCUUGUCUCCGGGUGGAUGCCUCAUGGUGCUAUGAAUGCCUAUAAUUGAAAUAUUAUAGAUGCCUAAUUUUCCUCUCUUGAGGAAAAUUAGAUGCCUCCAAGGGAGAAGC
+:(((((((:((((((((:::::::[[[[[))))))::::::::::::)))))))))::(((((((::::::)))))))::::((((((((((((::::)))))))))))):::::::::::]]]]]:::
+>PKB383, TCV1 (Tobacco streak virus)
+CCGGUGGAUAGGCGGGUGUAGUGCUUCUCCAACACACUUCCACUGAUGCUGUUUAUAUCUAAUGAUAUAAACAAUGCCUCCUUUAAAGGAGAUGC
+:(((((((::::::(((((:((:::[[[[[:))))))))))))))::::((((((((((::::))))))))))::::::::::::::]]]]]:::
+>PKB23, TMGMV (tobacco mild green mosaic virus) 
+GAGGUUCGAAUCCUCCCGUAACCGCCGGUAGCGGCCCA
+:::::::::::::::(((:::[[[[)))::]]]]::::
+>PKB141, TMGMV_PKbulge (tobacco mild green mosaic virus) 
+UUGUCAUAUCUGGAUCCAACAGUUAAACCAUGUGAUGGUGUAUACUGUGGUAUGGCGUAAAACAUCGGAG
+:(((((((((::::[[[:(((((:::((((:::::))))::::)))))))))))))):::::::::]]]:
+>PKB18, TMV (tobacco mosaic virus) 
+GGGGUUCGAAUCCCCCCGUUACCCCCGGUAGGGGCCCA
+:::::::::::::::(((:::[[[[)))::]]]]::::
+>PKB57, TMV_PKbulge (tobacco mosaic virus) 
+UGUGUCUUGGAUCGCGCGGGUCAAAUGUAUAUGGUUCAUAUACAUCCGCAGGCACGUAAUAAAGCGA
+(((((((::::[[[[((((:::::((((((((:::::))))))))))))))))))):::::::]]]]
+>PKB21, TMV-L (tobacco mosaic virus) 
+GGGAUUCGAAUUCCCCCGGAACCCCCGGUUGGGGCCCA
+:::::::::::::::(((:::[[[[)))::]]]]::::
+>PKB139, TMV-L_PKbulge (tobacco mosaic virus) 
+UAGUGUCUUGGAGCGCGCGGAGUAAACAUAUAUGGUUCAUAUAUGUCCGUAGGCACGUAAAAAAAGCGAG
+::((((((::::[[[[((((:::::((((((((:::::)))))))))))))))))):::::::::]]]]:
+>PKB29, TMVcg (tobacco mosaic virus) 
+GAGGUUCGAAUCCUCCCUAACCCCGGGUAGGGGCCCA
+:::::::::::::::(((::[[[[)))::]]]]::::
+>PKB130, TRV-PSG (tobacco rattle virus) 
+AGGGGUAAAACCCCUCGCCUACGUAAGCGUUAUUACGCCC
+:::::::::::::::(((:::[[[[[))):::]]]]]:::
+>PKB25, TVCV (turnip vein-clearing virus)
+GAGGUUCGAAUCCUCCCUAACCCCGGGUAGGGGCCCA
+:::::::::::::::(((::[[[[)))::]]]]::::
+>PKB5, TYMV (turnip yellow mosaic virus) 
+CGGGUGCAACUCCCGCCCCUCUUCCGAGGGUCAUCGGAACC
+:::::::::::::::(((::::[[[[[))):::]]]]]:::
+>PKB12, WCMV (wild cucumber mosaic virus) 
+CGGGUGCAACCCCCCCUCCCCCCGUAGGUUAACGGGACCA
+::::::::::::::(((:::[[[[[))):::]]]]]::::
+//
+
+>V5(Other viral 5'-UTR)
+
+>PKB361, AV_ori (Aichi virus)
+UUUUCCGGUGGUCUGGUCCCGGACCACCGUUACUCCAUUCAGCUUCUUCGGAACCUGUUCGGAGGAAUUAAACGGGCACC
+:::::((((((((((:[[[)))))))))):::((((:::(((:(((::::))):))):::)))):::::::::]]]::::
+>PKB365, BKV_ori (Bovine Kobuvirus)
+UUUUCCGGCGGCGCAUGUUCGCGUCGUCGUAAGUCUGGAUUCCCAAGGCCCACUCGGUUCAACUUCGGUUUCCGGACAAAUACAAAGAAC
+:::::(((((((((::[[[[))))))))):::(((((((::((:((((((:::::)))::::))):))::))))))):::::::::]]]]
+>PKB208, BVDV_IRES (Bovine viral diarrhea virus) 
+GGGUAGCAACAGUGGUGAACAGCCUGAUAGGGUGCUGCAGAGGCCCACUGUAUUGCUACUAAAAAUCUCUGCU
+:((((((((((((((((::))((((::::)))):::[[[[[[[:)))))))::))))))):::::]]]]]]]:
+>PKB362, CKoV_ori (Canine Kobuvirus) 
+UCACGCACUUUUCCGGUGGUCCGGACCCAGACCACCGUCACUCCAUUCAGCUUCUUCGGAACCUGUUCGGAGGAAUUAAAUGGGCACCCA
+:::::::::::::((((((((::::[[[[))))))))((:((((:::(((:(((::::))):))):::))))))::::::]]]]::::::
+>PKB209, CSFV_IRES (Classical swine fever virus (hog cholera virus)) 
+GACUAGCCGUAGUGGCGAACGACCUGAUAGGGUGCUGCAGAGGCCCACUAUUAGGCUAGUAUAAAAAUCUCUGCUG
+:((((((((((((((((::))((((::::)))):::[[[[[[[:)))))))::))))))):::::::]]]]]]]::
+>PKB293, EMCV-R_PKB (encephalomyocarditis virus) 
+ACGUGAAGGCUACGAUAGUGCCAG
+:((((::[[[)))):::::]]]::
+>PKB294, EMCV-R_PKC (encephalomyocarditis virus) 
+AGGGCGGGUACUGCCGUAAGUGCCA
+::(((:[[[[[[))):::]]]]]]:
+>PKB282, FMDV-A_PKI (foot-and-mouth disease virus)
+CCGUCGUUUCCGACGUAAAAGGAAGCAA
+:((((::[[[[)))):::::]]]]::::
+>PKB283, FMDV-A_PKII (foot-and-mouth disease virus)
+CCGCCUGUCCCGGCGUUAAAGGGAAGUAA
+:((((::[[[[)))):::::]]]]:::::
+>PKB284, FMDV-A_PKIII (foot-and-mouth disease virus)
+ACCGCCUACCCCGGCGUUAACGGGGAACAA
+::((((::[[[[)))):::::]]]]:::::
+>PKB290, PKB289, FMDV-C_PKI (foot-and-mouth disease virus, serotype C) 
+ACCGUCUCUCCCGACGUUAAAGGGAUGUAA
+::((((::[[[[)))):::::]]]]:::::
+>PKB291, FMDV-C_PKIII (foot-and-mouth disease virus, serotype C) 
+CCGCCUAUCCCGGCGUUAAUGGGAGG
+:((((::[[[[)))):::::]]]]::
+>PKB292, FMDV-C_PKIV (foot-and-mouth disease virus, serotype C)
+CCUUCACCUGGAAGUAAAACAGCAA
+:((((::[[[)))):::::]]]:::
+>PKB285, FMDV-O1K_PKI (foot-and-mouth disease virus) 
+ACCGUCGUUCCCGACGUAAAAGGGAGG
+::((((::[[[[)))):::::]]]]::
+>PKB286, FMDV-O1K_PKII (foot-and-mouth disease virus) 
+ACCGUCCGGCCCGACGUAAAAGGGUGGUAA
+::((((:::[[[)))):::::]]]::::::
+>PKB287, FMDV-O1K_PKIII (foot-and-mouth disease virus)
+CCGUCUUUCCCGACGUUAAAGGGAUG
+:((((::[[[[)))):::::]]]]::
+>PKB288, FMDV-O1K_PKIV (foot-and-mouth disease virus)
+CCUUCGCUCGGAAGUAAAACGACAA
+:((((::[[[)))):::::]]]:::
+>PKB297, HAV_PK1 (hepatitis A virus)
+AAGUCCAUGGUGAGGGGACUUGAUACCUCACCG
+:(((((::[[[[[[[))))):::::]]]]]]]:
+>PKB298, HAV_PK2 (hepatitis A virus)
+CGCCGUUUGCCUAGGCUAUAGGCUAAAUU
+:(((::::[[[[[)))::]]]]]::::::
+>PKB246, HCV (Hepatitis C Virus)
+GACCGTGCACCATGAGCACGAATCCTAAACCTCA
+((:((((:::::[[[[))))::))::::::]]]]
+>PKB181, HCV_IRES (hepatitis C virus)
+CCUCCCGGGAGAACUGCCUGAUAGGGUGCUUGCGAGUGCCCCGGGAGGUCUCGUAG
+(((((((((((::))(((::::::)))((:[[[[[[:))))))))))):]]]]]]:
+>PKB245, HPeV1 (Human Parechovirus 1) 
+CCCAGCCUUGGGGUGGCUGGUCAAUAAAAACCCCC
+:((((((::[[[[[)))))):::::::::]]]]]:
+>PKB295, Mengo_PKB (Mengovirus)
+ACGUGAAGGCUACGAUAGUGCCAG
+:((((::[[[)))):::::]]]::
+>PKB296, Mengo_PKC (Mengovirus)
+AGGGCGGGUCCUGCCGAAAGUGCCAA
+::(((:[[[:[[))):::]]:]]]::
+>PKB364, PKV_ori (Porcine Kobuvirus) 
+UUUUCCGGUGGCCACCCGCCCGGGCCACCGUUACUCCACUCCACUCCUUCGGGACUGGUUUGGAGGAACAUAACAGGGCU
+:::::((((((((::::[[[[:)))))))):::(((((::(((:(((::::))):)))::)))))::::::::::]]]]:
+>PKB363, SKV_ori (Sheep Kobuvirus)
+UUUUCCGGCGGCGCAAGUUCGCGUCGUCGUAAGCCUGGACACCCAUGUUCGCAUCGGUCUCCGGGCAAAUACAAGAACCC
+:::::(((((((((::[[[[))))))))):::(((((((:(((:(((::::))):))):)))))))::::::::]]]]::
+>PKB277, TEV_PK1 (tobacco etch virus) 
+CGAAUCUCAAGCAAUCAAGCAUUCUACUUCUAUUGCA
+:((((((:::[[[[[::)):)))):::::::]]]]]:
+>PKB278, TEV_PK2 (tobacco etch virus) 
+AUUUAAAUCAUUUCUUUUAAAGCAAAAGC
+:((((((:::[[[::))))))::::]]]:
+>PKB279, TEV_PK3 (tobacco etch virus)
+CAAUUUUCUGAAAAUUUUCAC
+:(((((::[[[))))):]]]:
+>PKB299, TMEV (Theiler\'s murine encephalomyelitis virus) 
+ACGCGGGUACUGCGAUAGUGCCACC
+:(((:[[[[[[)))::]]]]]]:::
+>PKB366, TV3_ori (Turdivirus 3) 
+UCCGUCCAAGCCGCGGACGUUAAACUGUGGCACGGUUGUGCCUAGGUGCAACCCUGCUACUAAUGGCGGUACCCCUGCCC
+::(((((::[[[[[))))):::::::((((((:((((((((::::)))))))):)))))):::::]]]]]::::::::::
+//
+
+>V3(Other viral 3'-UTR)
+
+>PKB256, BCV (bovine coronavirus) 
+CUCUCUAUCAGAAUGGAUGUCUUGCUGCUAUAAUAGAUAGAGAAGGUUAUAGCAGA
+:((((((((:::::::::::::::[[[[[[[[[[:))))))))::]]]]]]]]]]:
+>PKB154, BMV3_UPD-PK1 (brome mosaic virus) 
+GAGCCCCUGACUGGGUUAAAGUCACA
+:(((((:[[[[[)))))::]]]]]::
+>PKB155, BMV3_UPD-PK2 (brome mosaic virus) 
+CCCUUGUCUCAGGUAGAGACC
+:(((:[[[[[)))::]]]]]:
+>PKB156, BMV3_UPD-PK3 (brome mosaic virus)
+ACUUUGGCUAAGGUUAAAAGCUU
+:(((:[[[[)))::::::]]]]:
+>PKB157, BMV3_UPD-PK4 (brome mosaic virus) 
+UUGUUGAAUCAGUACAAUAACUGAUA
+:(((:::[[[[[[))):::]]]]]]:
+>PKB116, BSBV1_UPD-PKb (beet soil-borne virus)
+CAGUGUUUUGAAGUCCACUUAAAUAGAACUUCU
+:((((::::[[[[[[))))::::::]:]]]]]:
+>PKB115, BSBV1_UPD-PKc (beet soil-borne virus) 
+CGGUAGCGCGAACCUUAUCGCGCA
+:(((:[[[[[[))):::]]]]]]:
+>PKB118, BSBV2_UPD-PKb (beet soil-borne virus) 
+CGGUGCUUUUAUGUUCACCGAAAUCGAACAUAC
+:((((::::[[[[[[))))::::::]:]]]]]:
+>PKB117, BSBV2_UPD-PKc (beet soil-borne virus) 
+ACGUGGGUUAUACGAUAAUAACCG
+:(((:[[[[[[))):::]]]]]]:
+>PKB120, BSBV3_UPD-PKb (beet soil-borne virus)
+UAGUGUUCGUGGAUAACACUUUAAUUAAGAUUCAUA
+:((((((:[[[[[[)))))):::::::::]]]]]]:
+>PKB119, BSBV3_UPD-PKc (beet soil-borne virus) 
+ACGUGGCGAAUACGAUAAUUCGUA
+:(((:[[[[[[))):::]]]]]]:
+>PKB151, BSMVbeta_UPD-PK1 (barley stripe mosaic virus) 
+AAAUGUUUGAUCAGAUCAUUCAAAUCUGAUGG
+:((((::::[[[[[[[)))):::]]]]]]]::
+>PKB152, BSMVbeta_UPD-PK2 (barley stripe mosaic virus)
+UGGUGCCCAUCAACCAUAUGAUGGGA
+:(((:[[[[[[[))):::]]]]]]]:
+>PKB153, BSMVbeta_UPD-PK3 (barley stripe mosaic virus) 
+GAGUGUUUGCAAGUCCACUAUAAUCGAACUUGA
+:((((::::[[[[[[))))::::::]:]]]]]:
+>PKB110, BVQ1_UPD-PKb (beet virus Q)
+UAGUGUUUGCCGUUCCACUUAAAUCGAAACGGA
+:((((::::[[[[[[))))::::::]:]]]]]:
+>PKB109, BVQ1_UPD-PKc (beet virus Q)
+UUGUGGUGCAUACAAUAAUGCAUA
+:(((:[[[[[[))):::]]]]]]:
+>PKB112, BVQ2_UPD-PKb (beet virus Q) 
+UAGUGUUUUUCGUUCCACUUAAAUCGAAACGAU
+:((((::::[[[[[[))))::::::]:]]]]]:
+>PKB111, BVQ2_UPD-PKc (beet virus Q) 
+ACGUGGUGCAUACGUUAAUGCAUA
+:(((:[[[[[[))):::]]]]]]:
+>PKB114, BVQ3_UPD-PKb (beet virus Q) 
+UAGUGUUUACCGUUCCACUUAAAUCGAAACGGA
+:((((::::[[[[[[))))::::::]:]]]]]:
+>PKB113, BVQ3_UPD-PKc (beet virus Q) 
+UCGUGGUGCAUACGAAAAUGCAUA
+:(((:[[[[[[))):::]]]]]]:
+>PKB268, BYV (beet yellows virus) 
+CUCCUAGCGAAGUCCCGCUAGGAAGAAAAAAUAAGGGCCG
+:(((((((:::[[[[:))))))):::::::::::]]]]::
+>PKB172, BaMV  (bamboo mosaic virus) 
+CUUUUGGUUUCUACAGUUUUUUCCAAAAAAAAAAAAAAA
+:((((((:::::::::[[[[[[)))))):::]]]]]]::
+>PKB89, CGMMV_UPD-PK1  (cucumber green mottle mosaic virus) 
+ACCUCGAAAGCUUAGUUUCGAGGGUCUUCUGAU
+:((((((((::[[[[)))))))):::::]]]]:
+>PKB91, CGMMV_UPD-PK2  (cucumber green mottle mosaic virus) 
+UAGUGCUUUCCCGUUCACUUAAAUCGAACGGUU
+:((((:::::[[[[[))))::::::]:]]]]::
+>PKB371, CMMV_psiA (Cocksfoot mild mosaic virus)
+GAGGUUAGAGUCGACCUGUUAAACAGACUCA
+:(((((:[[[[[)))))::::::::]]]]]:
+>PKB372, CMMV_psiB (Cocksfoot mild mosaic virus) 
+CCUCGGGCACGCGCUGAAAGUGCCCGUUGGAAGGAUUGCGA
+:::(((((((:[[[:::::))))))):::::::::::]]]:
+>PKB269, CTV  (citrus tristeza virus)
+AGUUCUCCUUAGAGUGUGUGUUGUUUACCCAACGCACUGUCCCUAUGGGGGGCCAACAUAGGUCCA
+:(((((((:::::::((((((((::::::))))))))::::[[[[[)))))))::::]]]]]::::
+>PKB263, CYSDV1  (cucurbit yellow stunting disorder virus)
+CGACACUCUAAAGAGUUCCGUGAGGAACCACCUUGAGUGUCUAGUUAUAAAUAAACUAGGUC
+:(((((((::::::(((((::::))))):[[[[:)))))))::::::::::::::::]]]]:
+>PKB264, CYSDV2  (cucurbit yellow stunting disorder virus) 
+CGACACUCUAAAGUGUUCCAAGAGGAACCACCUUGAGUGUCUAGUUAUAAAUAAACUAGGUC
+:(((((((::::::(((((::::))))):[[[[:)))))))::::::::::::::::]]]]:
+>PKB85, CcTMV_UPD-PK1  (tobacco mosaic virus)
+AAGUUUGGUCGUACUUAACGACCU
+:(((::[[[[[[)))::]]]]]]:
+>PKB86, CcTMV_UPD-PK2  (tobacco mosaic virus)
+UAGGGGCUUACCGAAAUAAGCC
+:(((:[[[[[))):::]]]]]:
+>PKB87, CcTMV_UPD-PK3  (tobacco mosaic virus) 
+CCGUGUUUAAGAGUCCACGCAAAUCGAACUCU
+:((((:::::[[[[[))))::::::]:]]]]:
+>PKB169, CoxB3  (Coxsackie B virus) 
+ACCCUACUGUGCUAACCGAACCAGAUAACGGUACAGUAGGGGUAAAUUCUCCGCAUUCGGUGCGGAAAAAAAA
+:((((((((((((:[[[[[[:::::::::)))))))))))):::::((:(((((:]]]]]]))))):))::::
+>PKB262, CuYV1  (cucumber yellows virus)
+CGUUUGGUCGAAUGCUACUAGAGCAGCCUGACCAAACUAGUAUUAGUAAAUAAAGG
+:((((((((:::((((:::::)))):[[[))))))))::::::::::::::::]]]
+>PKB238, DEN2_PK1  (Dengue virus type 2)
+AUGGGGGCCCAAGGUGAGAUGAAGCUGUAGUCUCACUGGAAGGACUAGAGGUUAGAGGAGACCCCCCCAAAACAAAAAACAGCA
+:((((((((:::((((((((:::[[[[[:))))))))::::))::::::((((::::::)))))))))):::::::::]]]]]:
+>PKB271, GLRaV-3  (Grapevine leafroll-associated virus - 2)
+ACGCCAAAAUCCAAUUAAAGUUUGGGACCUAGGCGGGCCUCUUACGAGGCUAACUUAUCGACAAUAAGUUAGGUC
+:((((:::::((((:::::::))))[[[[[[))))((((((::::))))))::::::::::::::::::]]]]]]
+>PKB244, HAV (hepatitis A virus)
+UUAAACAAAUUUUCUUAAAAUUUCUGAGGUUUGUUUAUUUCUUUUAUCAGUAAAU
+:((((((((((:::::::::[[[[[[[)))))))))):::::::::]]]]:]]]:
+>PKB267, LChV-1  (little cherry virus 1)
+AAUGCAACUUUUAAAUAGUUUAUCUGUUAAGAUAAACCACCUAGGUUGCAUAUAUAAAAAAUAAAAGGUGCC
+:(((((((((:::::::((((((((::::))))))))[[[[[)))))))))::::::::::::::]]]]]::
+>PKB266, LIYV1  (lettuce infectious yellows virus) 
+UGUCUUCCUAAAAUCCUUGGAAGACUGUAUAUAUAGAAUAAAGGUCG
+:(((((((::::::[[[[))))))):::::::::::::::]]]]:::
+>PKB255, MHV  (mouse hepatitis virus) 
+CUCUCUAUCAGAAUGGAUGUCUUGCUGUCAUAACAGAUAGAGAAGGUUGUGGCAGA
+:((((((((:::::::::::::::[[[[[[[[[[:))))))))::]]]]]]]]]]:
+>PKB241, MMLV_PKb (Montana Myotis leukoencephalitis virus) 
+AGAGAGUUAUUCGCUCCUCUCGAGAUUGAGCGGC
+:(((((::::[[[[[[)))))::::::]]]]]]:
+>PKB249, NeRNV_UPD-PK1  (Nemesia ring necrosis virus) 
+UAGUGUUUCGGCUUCCACUUAAAUCGAAAGCCA
+:((((::::[[[[[[))))::::::]:]]]]]:
+>PKB250, NeRNV_UPD-PK2  (Nemesia ring necrosis virus) 
+GGGUGGCGCACACCACAGUGCGUA
+:(((:[[[[[[))):::]]]]]]:
+>PKB251, NeRNV_UPD-PK3 (Nemesia ring necrosis virus) 
+CAGCCUCUCACAGCUUCCUCGUGAGG
+:(((::[[[[[:))):::::]]]]]:
+>PKB59, ORSV-S1_UPD1-PK2 (odontoglossum ringspot virus) 
+CGUGGUGCAUACGAUAAUGCAU
+(((:[[[[[[))):::]]]]]]
+>PKB58, ORSV-S1_UPD1-PK3 (odontoglossum ringspot virus) 
+AGUGUUUGUCCCUCCACUUAAAUCGAAGGG
+((((:::::[[[[[))))::::::]:]]]]
+>PKB61, ORSV-S1_UPD2-PK2 (odontoglossum ringspot virus) 
+CGUUGUGUACACGAUAGUACAU
+(((:[[[[[[))):::]]]]]]
+>PKB60, ORSV-S1_UPD2-PK3 (odontoglossum ringspot virus) 
+AGUGUUUAUCCCUCCACUUGAAUCGAAGGG
+((((:::::[[[[[))))::::::]:]]]]
+>PKB56, ORSV-S1_UPD3-PK1 (odontoglossum ringspot virus)
+UAACGUUGAUAGUGUUGAACUAUC
+((((((:[[[[)))))):::]]]]
+>PKB63, ORSV-S1_UPD3-PK2 (odontoglossum ringspot virus) 
+CGUGGUGCAUACGAUAAUGCAU
+(((:[[[[[[))):::]]]]]]
+>PKB62, ORSV-S1_UPD3-PK3 (odontoglossum ringspot virus) 
+AGUGGUUAUCCCUCCACUUAAAUCGAAGGG
+((((:::::[[[[[))))::::::]:]]]]
+>PKB95, PMMV-S_UPD-PK1 (pepper mild mottle virus) 
+AGUUGGACGAACAUUAAACGUCC
+:(((:[[[[)))::::::]]]]:
+>PKB96, PMMV-S_UPD-PK2 (pepper mild mottle virus)
+CCGUGGCGAGUACGAUAACUCGUA
+:(((:[[[[[[))):::]]]]]]:
+>PKB97, PMMV-S_UPD-PK3 (pepper mild mottle virus) 
+UAGUGUUUUUCCCUCCACUUAAAUCGAAGGGU
+:((((:::::[[[[[))))::::::]:]]]]:
+>PKB369, PMV_psiA (Panicum mosaic virus) 
+ACAGGCUAGGACCGGCCUGAUAAAGGUCCG
+:((((((:[[[[[)))))):::::]]]]]:
+>PKB370, PMV_psiB (Panicum mosaic virus)
+UGAUGUGCAGCUUCUUAGGUGCAUCUCGUAUAGAAGCG
+:(((((((:[[[[[[:::)))))))::::::]]]]]]:
+>PKB270, PMWaV-2 (Pineapple mealybug wilt associated virus - 2)
+CAAAGUCCUAUAAACCUCAAUAAUCCCUCGUUAGGAGGGACACGCGAGGACUUUGGCGUGCC
+:((((((((::::::::::::::((((((:::::))))))[[[[[:)))))))):]]]]]::
+>PKB165, PSLVbeta_UPD-PK1 (poa semilatent virus)
+AUUGCCACUGUGGAAAUCAGUGA
+:(((:[[[[[)))::::]]]]]:
+>PKB166, PSLVbeta_UPD-PK2 (poa semilatent virus)
+CGGUUUUAUCUACCAUAAGAUAAA
+:(((:[[[[[[))):::]]]]]]:
+>PKB167, PSLVbeta_UPD-PK3 (poa semilatent virus) 
+AAGUGUUUUCAUGUCCACUUAAAUCGAACAUGAAC
+:((((::[[[[[[[[))))::::::]:]]]]]]]:
+>PKB259, PYVV1 (potato yellow vein virus)
+CGGUAGAAAAGAUGGUUUAAACCACGCCUUCUACCAAGUUAGUAAAUAAAUAGGCGG
+:((((((:::::((((::::))))[[[[[))))))::::::::::::::::]]]]]:
+>PKB260, PYVV2 (potato yellow vein virus)
+AGUAGAAAAGUUGGUGCUUAGACCACGCCCUCUACCGUAAUAAUAGAUAAAUAGGCG
+:(((((:::::((((::::::))))[[[[:)))))::::::::::::::::::]]]]
+>PKB261, PYVV3 (potato yellow vein virus)
+CGGUAGAAAAGAUGGUUUGAAAACCACGCCUUCUACCAAUAUAGUAAAUAAAUAGGCGG
+:((((((:::::(((((::::)))))[[[[[))))))::::::::::::::::]]]]]:
+>PKB242,  RBV_PKb (Rio Bravo virus)
+UGAGGUUUUUCCCCUCCCUCAUGAUGAGGGGAAG
+:((((:::[[[[[[[[)))):::::]]]]]]]]:
+>PKB184, SBRMV1_UPD-PKc (soil-borne rye mosaic virus)
+UUCUGUUUUUCGAACAGAUGUAAAUCGAAGA
+:(((((:[[[[[[)))))::::::]]]]]]:
+>PKB185, SBRMV1_UPD-PKd (soil-borne rye mosaic virus)
+ACGUGGCCAUCACGAUAGAUGGUU
+:(((:[[[[[[))):::]]]]]]:
+>PKB186, SBRMV1_UPD-PKe (soil-borne rye mosaic virus)
+AAGCCUAUUUGUACGGGUUGAGUACAAAC
+:(((((:[[[[[::)))))::::]]]]]:
+>PKB187, SBRMV1_UPD-PKf (soil-borne rye mosaic virus) 
+GCCGCUGGGAUUGCGGAUUAUAAAUCG
+:((((:::[[[[))))::::::]]]]:
+>PKB188, SBRMV1_UPD-PKg (soil-borne rye mosaic virus)
+UCGUUGCCGUCACGAUAGACGGA
+:(((::[[[[[))):::]]]]]:
+>PKB189, SBRMV1_UPD-PKh (soil-borne rye mosaic virus)
+AGUCUAACAUGUCGGGCUGAGACAUGUC
+:((((:[[[[[[[)))):::]]]]]]]:
+>PKB183, SBRMV1-UPD-PKb (soil-borne rye mosaic virus)
+ACGUCGUGCAGUACGGUAAACUGCACA
+:(((:[[[[[[[)))::::]]]]]]]:
+>PKB194, SBWMV1_UPD-PKb (soil-borne wheat mosaic virus)
+UACGCUGUACAGUGCGUUAAACUGUACA
+::(((:[[[[[[[)))::::]]]]]]]:
+>PKB195, SBWMV1_UPD-PKc (soil-borne wheat mosaic virus)
+CUCUGUUGAUCAAACAGAAAUAAAUUGAUUA
+:(((((:[[[[[[)))))::::::]]]]]]:
+>PKB196, SBWMV1_UPD-PKd (soil-borne wheat mosaic virus)
+ACGCGGUCAUUGCGAUAAAUGACU
+:(((:[[[[[[))):::]]]]]]:
+>PKB197, SBWMV1_UPD-PKe (soil-borne wheat mosaic virus)
+GAACCUAUUUGCUCGGGUUGAGUGCAAAC
+::((((:[[[[[::)))):::::]]]]]:
+>PKB198, SBWMV1_UPD-PKf (soil-borne wheat mosaic virus)
+ACCGCCUGAUUAGCGGUCUACAAGUUAAUCGA
+:((((::[[[[[)))):::::::::]]]]]::
+>PKB199, SBWMV1_UPD-PKg (soil-borne wheat mosaic virus)
+UCGUGGUCAGUACGAUAACUGAU
+:(((::[[[[[))):::]]]]]:
+>PKB200, SBWMV1_UPD-PKh (soil-borne wheat mosaic virus) 
+AGUCUAAUUUGUCGGGCUGAGACAAAUC
+:((((:[[[[[[[)))):::]]]]]]]:
+>PKB201, SBWMV2_UPD-PKb (soil-borne wheat mosaic virus)
+GGCGUUCUACAGUACGUUUAAACUGUAGG
+::(((:[[[[[[[))):::::]]]]]]]:
+>PKB202, SBWMV2_UPD-PKi (soil-borne wheat mosaic virus) 
+UGGUGCUUGUUAUUUCACCUAAAUCGAAAUAACG
+:((((:::[[[[[[[)))):::::::]]]]]]]:
+>PKB203, SBWMV2_UPD-PKk (soil-borne wheat mosaic virus)
+ACGUGGUCUUCACGAUAGAAGAUG
+:(((:[[[[[[))):::]]]]]]:
+>PKB204, SBWMV2_UPD-PKl (soil-borne wheat mosaic virus) 
+CAGAGUUAUCAUACUCUAUAAACUAUGAC
+:((((:::[[[[[))))::::::]]]]]:
+>PKB272, SCFaV (strawberry chlorotic fleck associated virus)
+ACUGUGAUUAUAAAAGUGGAGUACUAAAGUACCCACUACCUUUAAUCACAGACAAUAAAGGUCCAU
+:((((((((:::::(((((:((((::::)))))))))[[[[[[)))))))):::::]]]]]]::::
+>PKB265, SPCSV1 (sweet potato chlorotic stunt virus)
+CGGUUUUCCUAAAUCGUCGUGAGACGGACCUUGGAAAACCUAGUAUUUAAAUAACUAGGUC
+:((((((((:::::((((::::))))[[[[[:))))))))::::::::::::::::]]]]]
+>PKB103, STMV_UPD1-PK1 (satellite tobacco mosaic virus)
+CGCCGACGUGGCUGUAUAAUACGUC
+:(((:[[[[)))::::::::]]]]:
+>PKB104, STMV_UPD1-PK2 (satellite tobacco mosaic virus) 
+UCGUUGACAAGUACGAAAUCUUGUUA
+:(((:[[[[[[:)))::::]]]]]]:
+>PKB105, STMV_UPD1-PK3 (satellite tobacco mosaic virus) 
+UAGUGUUUUUCCCUCCACUUAAAUCGAAGGGU
+:((((:::::[[[[[))))::::::]:]]]]:
+>PKB100, STMV_UPD2-PK1 (satellite tobacco mosaic virus)
+AAGCCUUUUGGAUCGAAGGUUAAACGAUCCG
+:((((((::[[[[[[)))))):::]]]]]]:
+>PKB101, STMV_UPD2-PK2 (satellite tobacco mosaic virus) 
+CGCUCCUCGCUUGAGCUUGAGGCGGC
+:((((:[[[[[[)))):::]]]]]]:
+>PKB102, STMV_UPD2-PK3 (satellite tobacco mosaic virus)
+GCGUAUCUCUUAUGUCAACAGAGA
+:((((:[[[[)))):::::]]]]:
+>PKB121, STNV1_PK1 (satellite tobacco necrosis virus 1) 
+AAGCAGUCCCAGCUCUGCAUUGGGAA
+:(((::[[[[[)))::::::]]]]]:
+>PKB122, STNV1_PK2 (satellite tobacco necrosis virus 1) 
+UACUACUUGCUCAUUUGUAGUCUAAAUGAGA
+:(((((:::[[[[[[[)))))::]]]]]]]:
+>PKB123, STNV1_PK3 (satellite tobacco necrosis virus 1) 
+GACGUUGGCCUCGACGUGUCGAGGUG
+:((((::[[[[[[))))::]]]]]]:
+>PKB124, STNV2_PK1 (satellite tobacco necrosis virus 2) 
+CAGUAGUCCUGAACUAGUAAAUCAGGACC
+:(((:[[[[[[[)))::::::]]]]]]]:
+>PKB125, STNV2_PK2 (satellite tobacco necrosis virus 2) 
+CCAUUCCCACUAGUGUAUUAGUGGA
+:(((::[[[[[[))):::]]]]]]:
+>PKB126, STNV2_PK3 (satellite tobacco necrosis virus 2) 
+GAACGAGGCCCCGCGUGAAUUGGGGUG
+::(((::[[[[[[)))::::]]]]]]:
+>PKB92, TMGMV_UPD-PK1 (tobacco mild green mosaic virus)
+AAAGUCGCUGAAGACUUAAAAUUCAGG
+:(((((:[[[[[)))))::::]]]]]:
+>PKB93, TMGMV_UPD-PK2 (tobacco mild green mosaic virus)
+GGGUGGCUGAUACCAAAAUCAGCA
+:(((:[[[[[[))):::]]]]]]:
+>PKB94, TMGMV_UPD-PK3 (tobacco mild green mosaic virus)
+CAGUGGUUGUUCGUCCACUUAAAUAUAACGAUU
+:((((:::::[[[[:))))::::::::]]]]::
+>PKB53, TMV_UPD-PK1 (tobacco mosaic virus)
+ACGGAUUGUGUCCGUAAUCACA
+::(((:[[[[))):::::]]]]
+>PKB54, TMV_UPD-PK2 (tobacco mosaic virus)
+CGUGGUGCGUACGAUAACGCAU
+(((:[[[[[[))):::]]]]]]
+>PKB55, TMV_UPD-PK3 (tobacco mosaic virus)
+AGUGUUUUUCCCUCCACUUAAAUCGAAGGG
+((((:::::[[[[[))))::::::]:]]]]
+>PKB82, TMV-L_UPD-PK1 (tobacco mosaic virus) 
+AUAAAGUUUGUGUUUCUAAAACACAC
+::(((:::[[[[)))::::::]]]]:
+>PKB83, TMV-L_UPD-PK2 (tobacco mosaic virus) 
+ACGUGGUACGUACGAUAACGUACA
+:(((:[[[[[[))):::]]]]]]:
+>PKB84, TMV-L_UPD-PK3 (tobacco mosaic virus) 
+CAGUGUUUUUCCCUCCACUUAAAUCGAAGGGU
+:((((:::::[[[[[))))::::::]:]]]]:
+>PKB368, TPAV_psiA (Thin paspalum asymptomatic virus strain 2005)
+AGGCUAGGACCGGCCAGACAAAGGUCCG
+:((((:[[[[[)))):::::::]]]]]:
+>PKB375, TPAV_psiB (Thin paspalum asymptomatic virus strain 2005)
+ACACUACAUGCAGCGCUCUAGGUGUGUAGUGACAGUAAGCGCGC
+:((((((((((:[[[[[::::))))))))))::::::]]]]]::
+>PKB237, WNV_PK3end (West Nile virus) 
+ACCUGGGAUAGACUAGGGGAUCUUCUGCUCUGCACAACCAGCCACACGGCACAGUGCGCCGACAUAGGUGGCUGGUGGUGCUAGAACACAGGAUCU
+:(((((::[[[[)))))::::::]]]]:(((((((:(((((((((:((((:::::::))))::::::))))))))):)))):))):::::::::::
+//
+
+>Vo(Viral others)
+
+>PKB377, Ad2_VA_RNAI (Adenovirus type 2) 
+UCGCAAGGGUAUCAUGGCGGACGACCGGGGUUCGAACCCCGGAUCCGGCCGUCCGCCGUGAUCCAUGCGGUUACCGCCCGCGUGUCGAACCCAGGUGUGCGA
+(((((:((((:((((((((((((:(((((:((::::::::)):))))):))))))))))))::(((((((:::[[::)))))))::::)))):]]::)))))
+>PKB227, BQCV_IRES-PKI (Black queen cell virus) 
+AUGUUUAGAAGAUUAGGUAGUCUCUAAACAGAACAAUUUACCUG
+:(((((:::((((:[[[[[))))::)))))::::::::]]]]]:
+>PKB228, BQCV_IRES-PKII (Black queen cell virus) 
+ACCAACAAUGUGAUCUUGCUUGCGGAGGCAAAAUUUGCACAGUAUAAAAUCUGCAAGUAGUGCUAUUGUUGGAAACUGUGCU
+:(((((((((::::::((((((((((::::::::::[[[[[[[::::::))))))))))::::)))))))))::]]]]]]]:
+>PKB229, BQCV_IRES-PKIII (Black queen cell virus)
+AUCACCGUACCUAUUUAGGUUUACGCUCCAAGAUCGGUGGAUAGCAGCCCUAUCAAUAUCUAGGAGA
+::((((::((((::::)))):::::[[[[:[[[[:))))(((((:::::))))):::]]]]:]]]]:
+>PKB221, CrPV_IRES-PKI (Cricket paralysis virus) 
+CGGUUUUUCAGAUUAGGUAGUCGAAAAACCUAAGAAAUUUACCUG
+:((((((:::(((:[[[[[)))::)))))):::::::::]]]]]:
+>PKB222, CrPV_IRES-PKII (Cricket paralysis virus) 
+GCAAAAAUGUGAUCUUGCUUGUAAAUACAAUUUUGAGAGGUUAAUAAAUUACAAGUAGUGCUAUUUUUGUCCCUCUCUGC
+:((((((((::::::(((((((((::::::::::[[[[[[::::::::)))))))))::::))))))))::]]]]]]:::
+>PKB223, CrPV_IRES-PKIII (Cricket paralysis virus) 
+UUAGGUUAGCUAUUUAGCUUUACGUUCCAGGAUGCCUAGUGGCAGCCCCACAAUAUCCAGGAAG
+:((((::((((::::)))):::::[[[[:[[[[[))))((((:::::))))::]]]]]:]]]]:
+>PKB216, DCV_IRES-PKI (Drosophila C virus) 
+CUUCUUAUAUGAUUAGGUUGUCAUUUAGAAUAAGAAAAUAACCUG
+:((((:::(((((:[[[[[)))))::)))):::::::::]]]]]:
+>PKB219, DCV_IRES-PKII (Drosophila C virus)
+AGUUAAGAUGUGAUCUUGCUUCCUUAUACAAUUUUGAGAGGUUAAUAAGAAGGAAGUAGUGCUAUCUUAAUAACCCUCUCUGC
+:(((((((((::::::(((((((((::::::::::[[[[[[::::::::)))))))))::::))))))))):::]]]]]]:::
+>PKB220, DCV_IRES-PKIII (Drosophila C virus) 
+UUAGGUUAACUAUUUAGUUUUACUGUUCAGGAUGCCUAUUGGCAGCCCCAUAAUAUCCAGGACA
+:((((::((((::::)))):::::[[[[:[[[[[)))):(((:::::))):::]]]]]:]]]]:
+>PKB235, GLV_IRES (Giardiavirus)
+GGAGACCCAUGGAGAGUCUCCAGAGGUUCCUAAGGCCUCGAUCGCGCCUGCCGGGAGGCAGAAUGUCCCGGUUCUCC
+((((((::::[[[[[)))))):(((((:::::::)))))::::::::::(((((((:::::::::)))))))]]]]]
+>PKB239, HIV1_lrPK (human immunodeficiency virus type 1 (Mal isolate)) 
+UGCUUAAGCCUCAAUAAAGCUUGCCUUGAGUGCCUCAAGCAGAUAUAGACUGAAACAUUUAGUAUGGGCAAGCAGGGAGC
+:((((::(((((((::::[[[[[[[))))):)):::)))):::(((::((((((:::)))))))))]]]]]]]:::::::
+>PKB213, HiPV_IRES-PKI (Himetobi P virus) 
+CAGCCUUGUAGUUUUAGUGGACUUUAGGCUAAAGAAUUUCACUAG
+:(((((:::((((:[[[[[))))::))))):::::::::]]]]]:
+>PKB214, HiPV_IRES-PKII (Himetobi P virus)
+CGAAAAUGUGUGAUCUGAUUAGAAGUAAGAAAAUUCCUAGUUAUAAUAUUUUUAAUACUGCUACAUUUUUAACCUAGGUGC
+:(((((((((:::::::((((((((((::::::::[[[[[::::::)))))))))):::::))))))))):::]]]]]:::
+>PKB215, HiPV_IRES-PKIII (Himetobi P virus)
+GACCCUUAGUUAUUUAGCUUUACCGCCCAGGAUGGGGUGCAGCGUUCCUGCAAUAUCCAGGGCA
+:((((::((((::::)))):::::[[[[:[[[[[))))((((:::::))))::]]]]]:]]]]:
+>PKB367, IAV_PK_M (influenza A virus)
+GGCCUAAAAGAUGAUCUUCUUGAAAAUUUGCAGGCCUACCAGAAACGGAUGGGAGUGCAGAUGC
+((((:::((((::::::))))::::[[[[[[[))))(:(((::::::::))):):]]]]]]]::
+>PKB376, IAV_PK_NP (influenza A virus, strain A/PR/8/34)
+GGCACGAUCGGGCUCGCUGCCUUUUCGUCCGAGAGCUCGAA
+((((((:[[[[[[[)):))))::::::::::::]]]]]]]:
+>PKB273, IAV_PK_NS (influenza A virus, strain A/PR/8/34)
+UUCCAGGACAUACUGCUGAGGAUGUCAAAAAUGCAGUUGGAGUCCUCA
+:(((((:::::::::::[[[[[[:::::::::::::)))))]]]]]]:
+>PKB274, IBV_PK_NS (influenza B virus, strain B/Victoria/02/1987) 
+ACUGAUGAUCUUACAGUGGAGGAUGAAGAAGAUGGCCAUCGGAUCCUCA
+:((((((:::::::::::[[[[[[::::::::::::))))))]]]]]]:
+>PKB190, PSIV_IRES (Plautia stali intestine virus)
+CUCGCUCAAACAUUAAGUGGUGUUGUGCGAAAAGAAUCUCACUUCAA
+:((((:::(((((:[[[[[)))))::)))):::::::::]]]]]:::
+>PKB211, PSIV_IRES-PKII (Plautia stali intestine virus)
+UGACUAUGUGAUCUUAUUAAAAUUAGGUUAAAUUUCGAGGUUAAAAAUAGUUUUAAUAUUGCUAUAGUCUACCCUCGUGC
+:(((((((::::::(((((((((((::::::::::[[[[[:::::::)))))))))))::::))))))):::]]]]]:::
+>PKB212, PSIV_IRES-PKIII (Plautia stali intestine virus)
+AGGUCUUGUAUAUUUAUACUUACCACACAAGAUGGACCGGAGCAGCCCUCCAAUAUCUAGUGUA
+:((((::((((::::)))):::::[[[[:[[[[[))))((((:::::))))::]]]]]:]]]]:
+>PKB192, Qbeta_PKldX (bacteriophage Q-beta) 
+AAUAAAGCAGUUGAGAGGGGGAUCUGCUUUGCCCUCUCUCCUCCCA
+::((((((((::[[[[[[[[[::))))))))]]]]]]]]]::::::
+>PKB230, RhPV_IRES-PKI (Rhopalosiphum padi virus)
+CAGGAGAGCAUACGCUAGGUCGCGUUGACUAUCCUUAUAUAUGACCUG
+:((((:((((:((((:[[[[[)))))):)):)))):::::::]]]]]:
+>PKB231, RhPV_IRES-PKII (Rhopalosiphum padi virus) 
+UAGUGUUGUGUGAUCUUGCGCGAUAAAUGCUGACGUGAAAACGUUGCGUAUUGCUACAACACUUACGUCAC
+:(((((((((::::::((((((((::::::[[[[[:::::::))))))))::::)))))))))::]]]]]:
+>PKB232, RhPV_IRES-PKIII (Rhopalosiphum padi virus)
+UUGGUUAGCUAUUUAGCUUUACUAAUCAAGACGCCGUCGUGCAGCCCACAAAAGUCUAGAUA
+:(((::((((::::))))::::::[[[:[[[[:)))::(((:::::)))::::]]]]:]]]:
+>PKB158, TRV-PSG2_PK1 (tobacco rattle virus, strain PSG)
+CUUUAAGGGACCUUGUGAAAUUCAAGGG
+:((((:::::[[[[[)))):::]]]]]:
+>PKB159, TRV-PSG2_PK2 (tobacco rattle virus, strain PSG)
+GGGCGGGUGUCGCCAGAAAUCACCG
+:(((:[[[[[:)))::::]:]]]]:
+>PKB160, TRV-PSG2_PK3 (tobacco rattle virus, strain PSG)
+CGAUACUACUAGUUGUAUCAAAACAAAACUAA
+:(((((:::[[[[[))))):::::::]]]]]:
+>PKB161, TRV-PSG2_PK4 (tobacco rattle virus, strain PSG) 
+AGGUGGAUGUUACCAUAAACAUUA
+:(((:[[[[[[))):::]]]]]]:
+>PKB162, TRV-PSG2_PK5 (tobacco rattle virus, strain PSG)
+UAAUGUCGCAGGUGGCAUUUUAAAAUAAGACCUGA
+:((((((:[[[[[))))))::::::::::]]]]]:
+>PKB224, TrV_IRES-PKI (Triatoma virus)
+UUUCCUAUACCUCGAGUCGGGUUUGGAAUCUAAGGUUGACUCG
+:((((:::((((:[[[[[))))::)))):::::::::]]]]]:
+>PKB225, TrV_IRES-PKII (Triatoma virus)
+CUUGACUAUGUGAUCUUGCUUUCGUAAUAAAAUUCUGUACAUAAAAGUCGAAAGUAUUGCUAUAGUUAAGUGUACAGAAUU
+:(((((((((::::::((((((((:::::::::[[[[[[[::::::::))))))))::::)))))))))::]]]]]]]:::
+>PKB226, TrV_IRES-PKIII (Triatoma virus)
+UGCGCUUGCCUAUUUAGGCAUACUUCUCAGGAUGGCGCGUUGCAGUCCAACAAGAUCCAGGGAC
+:((((::((((::::)))):::::[[[[:[[[[:))))((((:::::)))):::]]]]:]]]]:
+//
+
+>Rr(rRNA ) 
+
+>PKB64, Ec_16S-PKcentre (E.coli)
+AAAUUGAAGAGUUUGAUCAUGGCUCAAUGAAU
+::::::::(((((:::[[[:)))))::]]]::
+>PKB65, Ec_16S-PK505/526 (E.coli)
+GCACCGGCUAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGUGC
+((((((((:::[[[[[[[::::::))):::::::]]]]]]])))))
+>PKB129, Ec_16S-PK570/866 (E.coli) 
+GCGUAAAUGUCGACUUGGAGGUUGUGCCCUUGAGGCGUGGCUUCCGGAGCUAACGCGUUAAGUCGACC
+::((::::[[[[[[::((((((((((((:::::)))))))))))):::[[::))]]:::::]]]]]]:
+>PKB148, Ec_23S-PKG12 (Escherichia coli)
+CACGAAGGUUGGCUAAUCCUGGUCGGACAUCAGGAGGUUAGUGCAAUGGCAUAAGCCAGCUUGGGUCAUAGU
+:((::((((((((((:((((((:::::::)))))):::)):::::[[[::::::))))))))::))]]]:::
+>PKB205, Pp_18S-PKE23-9/12 (Palmaria palmata)
+UUAGAGUGUUCAAAGCCAGGCGUUUGCCGUGAAUACAUUAGCAUGGAA
+:((::((:[[[[::))(((((::::))):))::))::::::::]]]]:
+>PKB147, Sc_18S-PKE21-7/8 (Saccharomyces cerevisiae)
+AUAAUAGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGU
+:((((((((((:::[[::[[[[[[)))))))))):::::::]]]]]]:]]:
+//
+
+>Mr(mRNA)
+
+>PKB207, Bt_PrP (Bos Taurus (cow))
+GCCCCAUGGAGGUGGCUGGGGCCAGCCUCAUGGAGGUGGCUGGGG
+:::((((((::::::::::::[[[[[[))))))::::]]]]]]::
+>PKB373, CCR5_PRF (Homo sapiens)
+UUUAAAAGCCAGGACGGUCACCUUUGGGGUGGUGACAAGUGUGAUCACUUGGGUGGUGGCUGUGUUUGCGUCUCUCCCAGGAAUCAUCUUUACCAGAUCUCAA
+:::::::((::(((((((((((:[[[[[[[[[[[[::[[:[[[[[::[[[[[[:)))))))))::::::))))]]]]]]:]]]]]]]]]]]]]::]]]]]]
+>PKB170, ColIb-P9_repZ (plasmid ColIb-P9)
+AAGGAAAACCCCCACUAUCUUUCUUACGAACUUGGCGGAACGACGAAAGAUAGUGGGGGCCUCAUCGCUCCGCCAU
+:(((::::(((((((((((((((:::::::::[[[[[[[:[[[:))))))))))))))))))::]]]:]]]]]]]:
+>PKB72, Ec_S15 (E.coli)
+GGGAUCGCUGAAUUAGAGAUCGGCGUCCUUUCAUUCUAUAUACUUUGGAGUUUUAAAAUGUCUCUAA
+((((:((((((:[[[[[[[)))))))))):::::::::::::::::::::::::::::::]]]]]]]
+>PKB71, Ec_alpha (E.coli)
+UGUGCGUUUCCAUUUGAGUAUCCUGAAAACGGGCUUUUCAGCAUGGAACGUACAUAUUAAAUAGUAGGAGUGCAUAGUGGCCCGUAUAGCAGGCAUUAACAUUCCUGA
+(((((((:(((((::::::::[[[[::::[[[[::::{{{{:))))))))))))::::::::::::::::::::::::::]]]]:::::]]]]:::::::::::}}}}
+>PKB193, Ec_rpmI (Escherichia coli) 
+ACAGAUGAAGGCGACUAUCAGGUAAAACUCCGCAGCCUGAUUCGCUUUCUCGAAUGCGAAGUGGAAGUUAUUAAAAUGCCAA
+:(:((:((((((((::(((((((::::[[:[[[[))))))))))))))))))::]]]]:]](((::(((:::::))):))):
+>PKB206, Hs_PrP (Homo sapiens)
+GCCUCAUGGUGGUGGCUGGGGGCAGCCUCAUGGUGGUGGCUGGGG
+:::((((((:::::::::::::[[[[[))))))::::]]]]]:::
+>PKB236, IFNG_PK (Homo sapiens)
+CAUUGUUCUGAUCAUCUGAAGAUCAGCUAUUAGAAGAGAAAGAUCAGUUAAGUCCUUUGGACCUGAUCAGCUUGAUACAAGAACUACUGAUUUCAACUUCUUUGGCUUAAUUCUCUCGGA
+:::::::((((((([[[[[[[[::[[[[[::[[[[[::::[[[[[[[[::[[[::[[[[::::))))))):::::::]]]]:]]]]]]]]]]]:::]]]]]:]]]]]::::]]]:]]]]]
+>PKB309, IFNG_PK_B_Taurus (Bos taurus(cow)) 
+AAGGAGACACAGUACAUUCUUCUGAUCAUCUGCAGAUCAGCAAUUAGAAAAGAAAGAUCAGCUACCUCCUUGGGACCUGAUCAUAACACAGGAGCUACCGAUUUCAACUACUCCGGCCUAACUCUCUCCUAAACAAUGAAAUAUA
+::::::::::::::::::::::(((((([::[:[[[:::[[::::[[::::[[[[[[[[:[:[[:::::[[[[::::)))))):::::]]]]:::]]]:]]]]]]]]:::]]:::]]:::::]]]::]::]::::::::::::::
+>PKB310, IFNG_PK_C_familiaris (Canis familiaris(dog)) 
+CAUUUUUCUGAUUGUCUACAGGUUGGCUAUUAGAAAAGAAAGAUCAGCUGAGUCCUUUGGACCUGAUCAACUUCAUCCAGGAGCUACUGACUUCAACUACUUCGGCCUAACUCUCUGAAACGAUGAAUUA
+::::::::(((((([[:[:[[[[[[[[[:::[[:[::[[[[[:[[[[:::[[[::[[[[[[::))))))::::::]]]]]]:]]]:]]]]:]]]]]:]:]]::]]]]:]]]]:]:]]]::::::::::::
+>PKB311, IFNG_PK_C_jacchus (Callitrix jacchus(marmoset))
+UGAUCAUCUGAAGAUCAGCUAUUGGAAGAGAAAGAUCAGCCAAGUCCUUUGGACCUGAUCAACUUGAUACGAGAACUACUGAUUUCAACUUCUUUGGCUGAGCUCUCUCCGAAACAAUGA
+(((((([[:[[[[[[[[[[[[::[[[[[:[[[[[[[[[[:::[[[::[[[[::::))))))::::::::]]]]:]]]:]]]]]]]]]]]]]]]:]]]]]]]::]]]:]]:]]::::::::
+>PKB312, IFNG_PK_M_musculus (Mus musculus(mouse)) 
+GCCAGAGAGGUGCAGGCUAUAGCUGCCAUCGGCUGACCUAGAGAAGACACAUCAGCUGAUCCUUUGGACCCUCUGACUUGAGACAGAAGUUCUGGGCUUCUCCUCCUGCGGCCUAGCUCUGAGACAAUGA
+:::::(((((::[[[[[[[:::::::::::[[[[[::::[[[[::::::::[[[[::::(((:::))):))))):((((:::::::)))):]]]]:::::::]]:]]:]]]]]]]]:]]]]:::::::::
+>PKB313, IFNG_PK_S_scrofa (Sus scrofa(pig))
+CUGCAGGUCAACGGAUCAUCUUCAGAUCAGCUAUUGCAGAAGAAAGGUCAGCCAAGCGCUCUGGGCCUGAUCGACUGUAUAUAGGAGCUUCUGAUUUCAACCAGAAGCUAACUCUCUCCGAAACAAUGAG
+:::::::::::::((((([[:::[[[::[[[::[[::::::[[[[[[[[[[::[[[[::[[[[::::))))):::::::::]]]]:]]]]]]]]]]]]]]::::]]]]]:::]]]::::]]:::::::::
+>PKB73, T2_gene32 (T2 bacteriophage)
+CUGACCAGCUAUGAGGUCAUACAUCGUCAUAGC
+:(((((:[[[[[[[))))):::::::]]]]]]]
+>PKB74, T4_gene32 (bacteriophage T4) 
+UGCCAGCUAUGAGGUAAAGUGUCAUAGC
+((((:[[[[[[[)))):::::]]]]]]]
+>PKB179, pMU407_repBA (plasmid pMU407.1 (IncL/M))
+AACCCCCUGAUCCUAUUUCAGAACUUUGGCCGGCUCGGAAUAGAAUCAGGGGGUGCCCGGCCAAUAUG
+:((((((((((:(((((((:((:::[[[[[[[[:))))))))):))))))))))::]]]]]]]]::::
+>PKB180, pMU720_repBA (plasmid pMU720 (IncB)) 
+ACCCCCACUAUUUUUCCUCGAACUUGGCGGAACGCAGAAAAAUAAUGGGGGCCGCUCCGCCAUA
+:((((((:((((((((::((::::[[[[[[[:))::)))))))):))))))::::]]]]]]]::
+//
+
+>Tm(tmRNA) 
+
+>PKB210, Bp_PK2 (Bordetella pertussis)
+CCGCUGCACUGAUCUGUCCUUGGGUCAGGCGGGGGAAGGCAACUUCCCAGGGGGCAACCCCGAACCGCAGCAGCGACAUUCACAAGGAAU
+:((((((::(((:::[[[[[[[::))):((((((((((::::)))))):((((::::)))):::)))):)))))):::::::]]]]]]]:
+>PKB49, Ec_PK1 (E.coli) 
+CGAGGGGCGGUUGGCCUCGUAAAAAGCCGC
+(((((:[[[[[[::))))):::::]]]]]]
+>PKB50, Ec_PK2 (E.coli) 
+CCUCUCUCCCUAGCCUCCGCUCUUAGGACGGGGAUCAAGAGAGGUCAAACCCAAAAGAG
+(((((((((((::(((:::[[[[[)))::))))::::)))))))::::::::::]]]]]
+>PKB51, Ec_PK3 (E.coli) 
+GCGUGGAAGCCCUGCCUGGGGUUGAAGCGUUAAAACUUAAUCAGGC
+((((:::(((((:[[[[[))))):::)))):::::::::::]]]]]
+>PKB52, Ec_PK4 (E.coli)
+GUUUGUUAGUGGCGUGUCCGUCCGCAGCUGGCAAGCGAAUGUAAAGACUGAC
+((((((((((:(((:[[[:[[[))):)))))))))):::::::::]]]:]]]
+>PKB67, Lp_PK1 (Legionella pneumophila)
+CGAGAAGGAGAUCUCUCGUAAAUAAGACUC
+(((((::[[[:[[))))):::::::]]]]]
+>PKB68, Lp_PK2 (Legionella pneumophila) 
+GUUAAACCAUCACUGUGUACUGGCCAAUAAACCCAGUAUCCCGUUCGACCGAGCCCGCUUAUCGGUAU
+(((:(((::::((((:[[[[[[[::::::::::)))):::::))):)))::::::::::::]]]]]]]
+>PKB69, Lp_PK3 (Legionella pneumophila) 
+CGGUCAUAAGAGAUAAGCUAGCGUCCUAAUCUAUCCCGGGUUAUGGCGCGAAACUCAGGGA
+(((((((((::::::::::::::::::::::::[[[[[[[))))))):)):::]]]:]]]]
+>PKB70, Lp_PK4 (Legionella pneumophila) 
+GCUGUGUAUCAUCCUGCCCGUCGGAGGAGCCACAGUUAAAUUCAAAAGACAAGGC
+((((((::((:(((:[[[:[[[))):))::)))))):::::::::::]]]::]]]
+>PKB234, Vp_PK2 (Variovorax paradoxus)
+GCCUUGCAACAGUUGGCCGAUGGGCUGGGCAAGGGGGUCUGGAGCAAUCCUGACCUCCCGGCUGCAAGGAUAACUACAUGGGCU
+:((((((::(((:::[[[[[[[::))):(((((((((((((((::::))))))))))))))):)))))):::::::]]]]]]]:
+//
+
+>Ri(Ribozymes) 
+
+>PKB276, Bs_glmS_P1.1 (Bacillus subtilis) 
+CGCCCGAACUAAGCGCCCGGAAAAAGGCUUAGUUGACGAGGAUGGAGGUUAUCGAAUUUCGCGGAUCCUCCCG
+:(((((((((((((::::::::::::)))))))):::::::::[[[[[::::(((:::))))))))]]]]]::
+>PKB275, Bs_glmS_P3.1 (Bacillus subtilis)
+CCGGCUGAGUGUGCAGAUCACAGCCGUAAGAAUUUCUUCAAACCAAGGGGGUGACUCCUUGAACAAAGAGAAAUCACAUGAUCUU
+:((((((:::::::[[[[[[)))))):::::(((((((:::::(((((((::::)))))))::::::)))))))::::]]]]]]:
+>PKB314, CPEB3_rz_Bt (Bos tauris(cow))
+AGGGGCCAGAGCAGAAGCAUUCACGUCGCGGCCCCUGUCAGAUUCUGGUGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB315, CPEB3_rz_Cf (Canis familiaris(dog))
+CGGGGCCACAGCAAAAGUGUUCACGUCAUGGCCCCUGUCAGAUUCUGGUGAAUCUGCAAAUUCUGCU
+:((((((::[[[[[[[(((::[::::))))))))):]:(((((((::::)))))))::::]]]]]]]
+>PKB316, CPEB3_rz_Hs (Homo sapiens)
+GGGGGCCACAGCAGAAGCGUUCACGUCGCAGCCCCUGUCAGAUUCUGGUGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB317, CPEB3_rz_La (elephant)
+GGGGGCCACAGCAGAAGCGUUCACGUCGCGGCCCCUGUCAGAUUCUGGUGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB318, CPEB3_rz_Md (opossum) 
+GGGGGCCAUAGCAGAAGCGUUCACGUCGCGGCCCCUGUCAGAUUCAUAGGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB319, CPEB3_rz_Mn (Mus musculus(mouse))
+GGGGGCCACAGCAGAAGCGUUCACGUCGCGGCCCCUGUCAGAUUCUGGCGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB320, CPEB3_rz_Oc (Rabbit)
+GGGGGCCACAGCAGAAGCGUUCACGUCGCGGCCCCUGUCAGAUUCUGGUGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB321, CPEB3_rz_Pt (chimpanzee)
+GGGGGCCACAGCAGAAGCGUUCACGUCGCGGCCCCUGUCAGAUUCUGGUGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB149, Ec_RNaseP-P4 (Escherichia coli)
+AGACAGUCGCCGCUUCGUCGUCGUCCUCUUCGGGGGAGACGGGCGGAGGGGAGGAAAGUCCGGGCUGACUGUCCACGACAGAACCCGGCUUA
+:(((((((:((:((((((((((:(((((::::))))))))):)))))):))::::[[[:[[[[[::)))))))::::::::::]]]]]]]]:
+>PKB150, Ec_RNaseP-P6 (Escherichia coli)
+GCUCCAUAGGGCAGGGUGCUAAACUCCACCCGGAGCAGGUACGGCCCGUACUG
+:((((:::[[[[:(((((::::::::)))))))))::(((((:]]]]))))):
+>PKB76, HDV-It_ag (hepatitis delta virus ("Italy" variant))
+GGGUCGGCAUGGCAUCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGAAGGAGGACGCACGUCCACUCGGAUGGCUAAGGGAGAGCCA
+(((((((::::::::[[[[(((:::::::)))))))))):::(((((((::::((((::::))))::)))))))::::::]]]]:::::
+>PKB75, HDV-It_g (hepatitis delta virus ("Italy" variant)) 
+UGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCCUCGGUAAUGGCGAAUGGGACCCA
+:(((((((::[[[[[[[{{{:[[:::::}}})))))))]]::::(((((((((((((:::))))))))):)))):::::]]]]]]]::
+>PKB178, Ni_VS (Neurospora intermedia)
+AAGGGCGUCGUCGCCCCGAGUCGUAGCAGUUGACUACUGUUAUGU
+::((((:::[[[)))):::::(((((((((:]]]:))))))))):
+>PKB356, R2_rz_Da (Drosophila ananassae)
+GGAGAAUAUGGAUUUGAUUGUGCAGAGGGGGUGCAAUACCGUAACUCGUAAGCCAUGCAAUCAGAUCAAGUCGACUCAAAACCUCCUCGUGGUAUUCUCUGGGUGCCAGUAUUUACUGGUAGCUGAUUUGAGCGGCGAAA
+(((((((:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[[[[[[(((:[[::::))))))))))]]:(((((((::::))))))):::::]]]]]]::::::::
+>PKB358, R2_rz_Df (Drosophila falleni) 
+UUAAGGAGGAUCAAAGGACUGAGAUGCAGAAGGGCCAUAUCAUUUGAAUAUGCUAUGUCGUACGUCAUAAGACAUCAAAGUCAAGUCGACUCGUAGACACUCUGUGUCCCACAAUUCAUUUGUGGCCUCCUCGUGGUAUCCUCCGGGUGCUAAAUUCAGUGUAGUUCUGAUUAGCAGCUAAUUCGAGCGA
+::::(((((((:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[[[[[[(((:[[::::))))))))))]]:((((((:::::::::::::::::)))))):::::]]]]]]:::
+>PKB354, R2_rz_Ds (Drosophila simulans)
+GAGGGAUCUGGGGUAAUUGCGAGCAGAGGGGGAGUAUUUUUCUGUAAUUCGUAAGUCAUAUCAUAUGGUGUGCGGAAGGGGAAUUUUACUCUGUAACUCACAAGUCUCUCCUUUACUCAAGUCGACUCAAAACCUCCUCGUGGUGGUCCCCGGUAAUGCUAAACUUGUUUAGCAGCUAAUUUGAGCGGCA
+::((((((:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[[[[[[(((:[[::::))))))))):]]::((((((((::::))))))))::::]]]]]]:::::
+>PKB355, R2_rz_Dy (Drosophila yakuba)
+GGGGAAACAUGGGGUAAAGGUGAGUAGAGGGGGAGUAUUUUUAUACUCUGCAACUCAUAAGUCUUGCCUUUACUCAAGUCGACUCAAAACCUCCUCGUGGUGUUUCCCGGUAAUGUUAAACUUGUUUAGCAGCUAAUUUGAGCGGCGAAU
+:(((((((::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[[[[[[(((:[[::::))))))))))]]::((((((((::::))))))))::::]]]]]]::::::::
+>PKB322, SCPEB3_rz_Rn (rat) 
+AGGGGCCACAGCAGAAGCGUUCACGUCGCGGCCCCUGUCAGAUUCUGGUGAAUCUGCGAAUUCUGCU
+(((((((::[[[[[[[(((::[::::))))))))))]:(((((((::::)))))))::::]]]]]]]
+>PKB77, Tt-LSU_P3/P7 (Tetrahymena thermophila) 
+AGACCGUCAAACACAGACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGG
+:(((((:((::::[:[[[[[::)):))))):(((((((:::::)))))))::::::::]]]]]]:
+>PKB327, drz_Agam_1_1 (Anopheles gambiae) 
+GGCUGACAAAAUCCUUUCCCAACCUCCACGUGGUGUCGGCUGGAUAAUGCAUUAGAAAUGUUGCAUUUACCAACUGGGAAGG
+(((((((::::::[[[[[[[[(((:[[::::))))))))))]]::((((((:((::::)):)))))):::::::]]]]]]]]
+>PKB328, drz_Agam_1_2 (Anopheles gambiae) 
+GGCUGACAAAACCCUGUCCCAACCUCCACGUGGUGUCGGCUGGAUAAUGCUGCAUUAUGUUGCAUUUACCAACUGGGAAGG
+(((((((:::::[[[:[[[[[(((:[[::::))))))))))]]:((((((:(((:::))):))):))):::::]]]]]]]]
+>PKB329, drz_Agam_1_3 (Anopheles gambiae)
+GGCUGACAAAAUCCUAUCUCUACCUCCUCGUGGUGUCAGCCGGAAUGUGCAGUAUCAGUACUGCAUAUACCAACAGAGAGGG
+(((((((:::::[[[:[[[[[(((:[[::::))))))))))]]:((((((((((::::))))))))))::::::]]]]]]]]
+>PKB323, drz_Agam_2_1 (Anopheles gambiae)
+GCUCUGCAAAUGGGGUAGGAGGCGAUGCCUCGUCCUCAUACCCAACUCCUAUUCCGGCACGUCCACGUCGUGCAGAGCGGUAACAUGCGUUACUAGGGGUGCAAGAGCUCUUUUUGAGGAGGAGCUCUUUUUGCUGCACUAGUUGCAUCAGAUGGUAACGCAUGGCUAAGCCGGAAAGGG
+(((((((:::::(((((:(((((((::::))):)))):))))):::[[[[:[[[[[[[(((:[[::::))))))))))]]:::((((((((((((::((((((:(((((((((:::::))))))))):::::((((:::)))))))))):::)))))))))))):::::]]]]]]]]]]]
+>PKB324, drz_Agam_2_2 (Anopheles gambiae)
+GUUCUGUAAACGGGGUUGGAUCCGACUCUCAUAGGCUCUCCAACCCAACUCCUACUCAAUACGUCCUCGUCGUACAGAACGGUAACAUGUUUUCCGAACAUCCGCGCUUGGGUAUACGAGUAUACACCUUACCCAACCCUCGCCAACGGGGAGGAUGGAAAACAUGGCUAAAUUGAGAGGG
+(((((((:::::((((((((:((::::::::::)):::)))))))):::[[[[:[[[[[[(((:[[::::))))))))))]]:::((((((((((::::((((::::(((((((:::::::::::::::))))))):(((((::::))))):)))))))))))))):::::]]]]]]]]]]
+>PKB325, drz_Bflo_1 (Branchiostoma floridae)
+GACACCCUUGGCAGAUGACCUCCUCGUUGGUGGGUGUCGGUAAUGUUGUCAGUCACAGGCAACAGCUAACGAUCUGCC
+(((((((::[[[[[[[[(((:[[:::::))))))))))]]:::(((((((:(:::):))))))):::::]:]]]]]]]
+>PKB326, drz_Bflo_2 (Branchiostoma floridae)
+GGGGACCAUAGAAGGAGCGUUCUCGUCGCGGUCCCUGUCAGGCUCGUCCUGCGAAUCCUUCUA
+(((((((:[[[[[[[[(((::[::::))))))))))]:((((:::::))))::::]]]]]]]]
+>PKB340, drz_CIV_1 (Invertebrate iridescent virus 6)
+GAGGUGCUUGUAGAUAACCUCCACGAUGGUGCACCUUGGGCAACACAAAAGUGGCAAAUCAUCUACA
+(((((((:[[[[[[[[(((:[[:::::))))))))))]]::::(((::::))):::::]:]]]]]]]
+>PKB335,drz_Cjap_1 (Caenorhabditis japonica)
+GGUUUGCUUGUUGGAUACCUCCUCGCGGUGCAAACUGGGCAAUGCUGUGCUCCUACGACAGGGGAAAUUGGACACCACUGUUAGGCACAGUAGCCAAAAUCCAC
+(((((((::[[:[[[[(((:[[::::))))))))))]]((::(((((((((:::::(((((((:::::::::::)):))))):)))))))))))::::]]]]]]
+>PKB341, drz_Dpap_1 (Diplonema papillatum)
+GAGGGACAAGAAUCUGACCUGCACCUCCUCGUGGUGUCCCUCGGAAACGUGCUCAACGCGCGGCCGACGCAGGCAG
+(((((((::::::[[[:[[[[[(((:[[::::))))))))))]]:::(((((:::::)))))::::::]]]]]]]]
+>PKB339, drz_Fpra_1 (Faecalibacterium prausnitzii)
+GCUGCUCAUAUAUGCUACCUCUCCGUGGUGAGCAGUAGGCAACGGAUCUCUAUCCGGCUAAAGCAUGUG
+(((((((:[[[[[[[[(((:[[::::))))))))))]]::::(((((::::))))):::::]]]]]]]]
+>PKB338, drz_Pmar_1 (Petromyzon marinus)
+GGGGAAGAAGAUGACAACCUUCUCGCGGUCUUCCCUGUUACGUGUGUAGACACAACGAAUGUCAUC
+(((((((::[[[[[[[(((::[::::))))))))))]:(::((((::::)))):)::::]]]]]]]
+>PKB336, drz_Ppac_1_1 (Pristionchus pacificus)
+GACUCGCUUGACUGUUCACCUCCCCGUGGUGCGAGUUGGACACCCACCACUCGCAUUCUUCACCUAUUGUUUAAUUGUGCUUGUGGUGGGUGACUGAGAAACAGUC
+(((((((::[[[[[[[[(((:[[::::))))))))))]]:((((((((((::((((::((:(:(::::):):))::))))::)))))))))):::::]:]]]]]]]
+>PKB337, drz_Ppac_1_2 (Pristionchus pacificus)
+GGUUCGCUUGACUGUUCACCUCCCCGUGGUGCGAGCUGGACACUAUCCACUCGCAUUUUU
+(((((((::[[[[[[[[(((:[[::::))))))))))]]:((((((((((::(((((((:
+>PKB330, drz_Spur_1_1 (Strongylocentrotus purpuratus)
+GGGGGCCAUUGAAGGAGCGUUCACGUCGCGGUCCCUGUCAGAUGAAAAUCUGCGAAUCCUUCAA
+(((((((:[[[[[[[[(((::[::::))))))))))]:(((((::::)))))::::]]]]]]]]
+>PKB331, drz_Spur_1_2 (Strongylocentrotus purpuratus)
+GGGGGCCAUUGAAGGAGCGUUCACGUCGCGGUCCCUGUCAGGUGAAAAUCUGCGAAUCCUUCAA
+(((((((:[[[[[[[[(((::[::::))))))))))]:(((((::::)))))::::]]]]]]]]
+>PKB332, drz_Spur_2 (Strongylocentrotus purpuratus)
+GGGGUUCAUGUUGUCGACCUUCACGUGGUGAGCCCUGUCAACUGACUGCUGUCAGGCUAACAGACAAC
+(((((((::[[[[[[[(((::[::::))))))))))]::::(((((::::))))):::::]:]]]]]]
+>PKB333, drz_Spur_3 (Strongylocentrotus purpuratus)
+GACACUGAGUGAGAAACGUCCCCGUCGUAGUGUCGGUAAUGCGUUGUUUCAACGUAGCCAAUUCUCAC
+((((((::[[[[[[[(((:[[::::)))))))))]]:::(((((((:::))))))):::::]]]]]]]
+>PKB334, drz_Spur_4 (Strongylocentrotus purpuratus)
+GGGUUGCACAGGAGCAGGGUCCACGUCCCGCAACCUGGGUGUCAUGAUUUCUUGAAGCCAUGAUAGCUGAUGCUCCU
+(((((((::[[[[[[[(((:[[::::))))))))))]]:(((((((:(((::::))):))))))):::::]]]]]]]
+>PKB342, drz_Tatr_1 (Trichoderma atroviride) 
+GGACAACGAAAUCGGCCUCUGCAACCUCCACGUGGUGUUGUCUGGGAACCUGAUCAAAACUACCGAGUUUGAUCAGGCCAAUGCAGAG
+(((((((:::::::::[[[[[[[(((:[[::::))))))))))]]:::((((((((((:::::::::))))))))))::::]]]]]]]
+>PKB252, ribox02 ()
+GGGAUCGUCAGUGCAUUGAGAUGUUUCUCAGACUGAUUAUCGUGAGACAGUGAUCUCGUGGUCAGUCCUAGUUUGGGGGCUGGUCCUCACGGUGGUAUCCCCAAGGGGUA
+((((((:(((((:::((((((::::))))))))))):[[[[[[[[[:::::)))))):::::(((((((::::::))))))):::]]]]]]]]]:((((((:::))))))
+>PKB173, satRPV (Satellite cereal yellow dwarf virus-RPV RNA) 
+ACAGAGCGCGUACUGUCUGACGACGUAUCCGCGCGGACUAGAAGGCUGGUGCCUCGUCCAACAAAUAGAUACA
+((((:[[[[[::))))::::::::(((((]]]]]((((::::((((::::)))):))))::::::::))))):
+//
+
+>Ap(Aptamers)
+
+>PKB131, NGF-H1 ()
+CGCUCAACUCAUGGAGCGCAAGACGAAUAGCUACAUAUUCGACAUGAG
+(((((::[[[[[[))))):::::((((((::::::)))))):]]]]]]
+>PKB132, NGF-L2 () 
+CGCUCAACCUCAGAGCGCAAGAGUCGAACGAAUACAGUUCGACAUGAGG
+(((((::[[[[[))))):::::(((((((:::::::))))))):]]]]]
+>PKB133, NGF-L6 ()
+CGCUCAACUCAUGGAGCGCACGACGGAUCACCAUCGAUUCGACAUGAG
+(((((::[[[[[[))))):::::((((((::::::)))))):]]]]]]
+>PKB343, SAH_riboswitch (Ralstonia solanacearum)
+GGACGAGGAGCGCUGCAAGCGAGAGCCCAGGCUCGUCCGUUCAAACGGCGCUCA
+((((((([[[[[[:::::((::::)):::::))))))):::::::::]]]]]]:
+>PKB344, SAM-I_riboswitch (Thermoanaerobacter tengcongensis) 
+GGCUUAUCAAGAGAGGUGGAGGGACUGGCCCGAUGAAACCCGGCAACCAGAAAUGGUGCCAAUUCCUGCAGCGGAAACGUUGAAAGAUGAGCCA
+((((((((::::(:(((((((((:[[[[))):::)))))))(((::(((::::))):))):::(]]]](((((::::)))))::))))))))):
+>PKB345, SAM-II_riboswitch (Sargasso Sea metagenome)
+GCGCGGCGAUUUAACCGUAUUGCAGUCGCGUGAUAAAUGUAGCUAAAAAGGA
+:((((((:::::::[[[[[[[[[[)))))):::::::::]:]]:]]]]]]]:
+>PKB304, SBU (B. subtilis) 
+AGAGGUUCUAGCUACACCCUCUAUAAAAAACUAA
+(((((:::[[[::::::)))))::::::::]]]:
+>PKB66, TPK-70.28 () 
+CAAGAACCGGACGGGUGAGAACCGAGACAAACACCCACCA
+:::::::(((::[[[[[::::))):::::::]]]]]::::
+>PKB302, antiHIV1-NC_psi-50-1 () 
+GCCAGUGGUUUGCAAUGCUGGUCCGGUGCGU
+(((((((:::[[[[:)))))))::::]]]]:
+>PKB300, antiHIV1-RT_1.1 ()
+UCAAGAAUUCCGUUUUCAGUCGGGAAAAACUGAACAA
+:::::::(((((::[[[[[[))))):::]]]]]]:::
+>PKB301, antiHIV1-RT_1.3a () 
+GAAUAUCUUCCGAAGCCGAACGGGAAAACCGGCAUCU
+:::::::(((((::[[[[::)))))::::]]]]::::
+>PKB175, biotin-PK () 
+CACCGACCAUAGGCUCGGGUUGCCAGAGGUUCCACACUUUCAUCGAAAAGCCUAUGC
+:(((((:[[[[[[[)))))::::::::::::::::::::::::::::::]]]]]]]:
+>PKB176, biotin-PK-AN69.1 ()
+GGACCGUCAGAGGACACGGUUAAAAAGUCCUCU
+::(((((::[[[[[[)))))::::::]]]]]]:
+>PKB381, ydaO_riboswitch_Bs (Bacillus subtilis)
+GAAAACAAAUCGCUUAAUCUGAAAUCAGAGCGGGGGACCCAAUAGAACGGCUUUUUGCCGUUGGGGUGAAUCCUUUUUAGGUAGGGCUAACUCUCAUAUGCCCGAAUCCGUCAGCUAACCUCGUAAGCGUUCGUGAGAGG
+:::::::((:(((((::((((::::))))(((((((::((:::::((((((:::::))))))((((((::((((::::))))(((((:::[[[[[[:::))))))))))::):))::))))))))))))))::]]]]]]:
+>PKB380, ydaO_riboswitch_Tl (Thermovirga lienii)
+GGCGCUGAAUUCCCUGAAGGGAAACGGGGGACCCAAUCUUCAGGGGUGAAUCCCACGUAAGUGGGUAGGGCUAGUCUCUUUCGGCCCGAACCCGUCAGCUAACCUCGUAAGCGUGGAAAGAGGG
+::(((((::(((((::::)))))(((((((::((::::::::((((((::((((((::::))))))((((((:::[[[[[[[)))))))))))::):))::))))))))))))::]]]]]]]::
+>PKB379, ydaO_riboswitch_Tp (Thermoanaerobacter pseudethanolicus)
+GGUUGCCGAAUCCGAAAGGUACGGAGGAACCGCUUUUUGGGGUUAAUCUGCAGUGAAGCUGCAGUAGGGAUACCUUCUGUCCCGCACCCGACAGCUAACUCCGGAGGCAAUAAAGGAAGGAG
+:::(((((::(((::::)))(((((((::((:::::::((((((::(((((((:::::)))))))((((((:[[[[[[)))))))))))):::))::)))))))))))):::::]]]]]]::
+>PKB378, ydaO_riboswitch_Tt (Thermoanaerobacter tengcongensis)
+GGAUCGCUGAACCCGAAAGGGGCGGGGGACCCAGAAAUGGGGCGAAUCUCUUCCGAAAGGAAGAGUAGGGUUACUCCUUCGACCCGAGCCCGUCAGCUAACCUCGCAAGCGUCCGAAGGAGAA
+::::(((((::::::::::::(((((((:::(::::::((((((::((((((((::::))))))))((((((:[[[[[[[)))))))))))::):):::)))))))))))):::]]]]]]]::
+//
+
+>Ar(Artifical molecules)
+
+>PKB81, oligo_PK5 () 
+GCGAUUUCUGACCGCUUUUUUGUCAG
+(((::::[[[[[)))::::::]]]]]
+//
+
+>Ot(Others) 
+
+>PKB374, Ec_RydC (Escherichia coli K-12)
+CUUCCGAUGUAGACCCGUAUUCUUCGCCUGUACCACGGGUCGGUUUUAGUACAGGCGUUUUCUU
+:::::::::::(((((((::::::[[[[[[[[[:))))))):::::::]]]]]]]]]:::::::
+>PKB163, Hs_SRP-pkn (Homo sapiens)
+GCCGGGCGCGGUGGCGCGUGCCUGUAGUCCCAGCUACUCGGGAGGCU
+(((:((((((:[[[[:)))))):::::((((:]]]]:::))))))): 
+>PKB360, K.lac_telo (Kluyveromyces lactis) 
+UAUUCGGUAGGUUUCUUUUUAGUGAUUUUUCCAAACCCAUUCUUCUCUUCGUUAGUAUAUUUGACUCGGUUCUAUUUCAAUGUGUCGCAUUGAAAUAGAAAUCCUUUGUGCAUAAAAUCAUUUACCUCAA
+:::::::::(((((::::::[[[[[[[[[[[[)))))::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::]]]:]]]]]]]]]::::::::
+>PKB303, R2_retroPK (Bombyx mori) 
+AGCCCCGAUGGACGGACCGCGAGGACCGUCAAGCCUAGCAGGUACCUUCGGGUGGGGCCUUGCGAUACCUGCGGGC
+:(((((::::(((((:((::::)):))))):::[[[:[[[[[[(((::::))))))))::::::::]]]]]]]]]:
+>PKB306, R2_retroPK_Ch (Coscinocera hercules)
+AGUCCCAAGGGGGUACUCUACGGAGCGACCCAAGCCCAACGGCUGGCUUAGGCUGGGACGAACGAUAGUCCGUGGGCG
+:(((((::::((((:(((::::)))::))))::[[[[:[[[[[[(((::::)))))))):::::::]]]]:]]]]]]:
+>PKB307, R2_retroPK_Cpr (Callosamia promethea)
+AGUCCCAAUGGGGUCCUCUUCGGAGCGACCCAAGCCCAACGGCUGGCUUCGGCUGGGACCAUGGCGAGAGUUCGUGGGCG
+:(((((::::((((((((::::))):)))))::[[[[:[[[[[[(((::::)))))))):::::::::]]]]:]]]]]]:
+>PKB305, R2_retroPK_Sc (Samia cynthia) 
+AGUCCCAAGGGGGUCCUCUUCGGAGCGACCCAAGCCCAACGGCUGGCUUCGGCUGGGACCAUUGCGAGAGUUCGUGGGCG
+:(((((::::((((((((::::))):)))))::[[[[:[[[[[[(((::::)))))))):::::::::]]]]:]]]]]]:
+>PKB177, Rr_ODCanti (Rattus rattus (black rat)) 
+UGCUCCUGAUGUCCCUCACCCACCCCUGAAGAUCCCAGGUGGGCGAGGGAACAGUCAGCGGGAUCACAGU
+::::::::::::(((((:((((((::::::[[[[[[:)))))):)))))::::::::::]]]]]]:::::
+>PKB108, T.the_telo (Tetrahymena thermophila) 
+UAUAACCUUCACCAAUUAGGUUCAAAUAAGUGGUA
+:::((((:::[[[[[[[[))))::::]]]]]]]]:
+>PKB359, ToxI_Pa (Pectobacterium atrosepticum)
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAAAUUC
+::::((((::::[[[:))))::::::]]]:::::::::::
+>PKB243, hTER (Homo sapiens) 
+GGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUCCACCGUUCAUUCUAGAGCAAACAAAAAAUGUCAGCU
+:((((((((:::::(((((:::::::(((((((((::::::::[[[[[[[[[)))))))))::)))))::::))))):))):::::::::::::::::::::::::::::]]]:]]]]]]:
